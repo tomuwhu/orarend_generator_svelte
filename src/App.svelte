@@ -5,6 +5,7 @@
   var x: number = 5;
   var selected_tacher = " ";
   var ort: any = {};
+  var [mino, maxo] = [0, 20];
   const napok = ["H", "K", "Sz", "Cs", "P"];
   const napnevek = ["Hétfő", "Kedd", "Szerda", "Csütörtök", "Péntek"];
   async function get_timetable() {
@@ -19,14 +20,18 @@
       "https://tomuwhu.github.io/orarend_generator_svelte/orarend.json",
     ).then((v) => v.json());
     tt = orarend.filter((v: { tanar: string }) => v.tanar == selected_tacher);
-    //console.log(tt);
+    mino = 20;
+    maxo = 0;
     tt.forEach((v) => {
+      if (v.ora < mino) mino = v.ora;
+      if (v.ora > maxo) maxo = v.ora;
       if ((v.het = "A")) {
         let [_, ...on] = v.osztaly;
         ort[v.nap][v.ora] = {
           oszt: on.join(""),
           targy: v.targy,
           terem: v.terem,
+          csoport: v.csoport === "Egész osztály" ? "" : v.csoport,
         };
       }
     });
@@ -65,16 +70,17 @@
             <th>{nap}</th>
           {/each}
         </tr>
-        {#each Array(15).fill(0) as i, osz}
+        {#each Array(maxo - mino + 1).fill(0) as _, osz}
           <tr>
-            <th>{osz}.</th>
+            <th>{osz + mino}.</th>
             {#each napok as nap}
-              {#if ort[nap] && ort[nap][osz]}
+              {#if ort[nap] && ort[nap][osz + mino]}
                 <td class="vo">
-                  <div>{ort[nap][osz].oszt}</div>
+                  <div class="oszt">{ort[nap][osz + mino].oszt}</div>
                   <div class="targy">
-                    {ort[nap][osz].targy}
-                    (<span>{ort[nap][osz].terem}</span>)
+                    <span class="targy">{ort[nap][osz + mino].targy}</span>
+                    <span class="csop">{ort[nap][osz + mino].csoport}</span>
+                    <span class="terem">{ort[nap][osz + mino].terem}</span>
                   </div>
                 </td>
               {:else}
@@ -141,7 +147,22 @@
   div.af a:hover {
     color: yellow;
   }
-  div.targy span {
+  span {
+    font-size: 10px;
+  }
+  div.oszt {
+    font-size: 12px;
+    text-shadow: 1px 1px 3px rgb(84, 8, 8);
+    font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+    font-weight: bold;
+  }
+  span.targy {
     color: rgb(108, 204, 108);
+  }
+  span.terem {
+    color: rgb(196, 204, 108);
+  }
+  span.csop {
+    color: rgb(204, 159, 108);
   }
 </style>
