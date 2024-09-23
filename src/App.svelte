@@ -40,8 +40,6 @@
   }
   onMount(get_teacherlist);
 </script>
-
-<!-- svelte-ignore a11y-no-static-element-interactions -->
 <main>
   <h1>Órarend</h1>
   <select
@@ -57,7 +55,6 @@
       <option value={ok}>{familyname} {firstname}</option>
     {/each}
   </select>
-  <!-- svelte-ignore a11y-click-events-have-key-events -->
   <div>
     {#if selected_tacher !== " "}
       <table>
@@ -86,7 +83,6 @@
     {/if}
   </div>
 </main>
-
 <style lang="scss">
   main {
     h1 {
