@@ -25,7 +25,7 @@
         let [_, ...on] = v.osztaly;
         ort[v.nap][v.ora] = {
           oszt: on.join(""),
-          targy: v.ttnev,
+          targy: v.targy,
           terem: v.terem,
         };
       }
@@ -65,14 +65,17 @@
             <th>{nap}</th>
           {/each}
         </tr>
-        {#each Array(9).fill(0) as i, osz}
+        {#each Array(15).fill(0) as i, osz}
           <tr>
             <th>{osz}.</th>
             {#each napok as nap}
               {#if ort[nap] && ort[nap][osz]}
                 <td class="vo">
                   <div>{ort[nap][osz].oszt}</div>
-                  <div class="targy">{ort[nap][osz].targy}</div>
+                  <div class="targy">
+                    {ort[nap][osz].targy}
+                    (<span>{ort[nap][osz].terem}</span>)
+                  </div>
                 </td>
               {:else}
                 <td class="no"></td>
@@ -132,5 +135,8 @@
   }
   div.af a:hover {
     color: yellow;
+  }
+  div.targy span {
+    color:rgb(108, 204, 108);
   }
 </style>
