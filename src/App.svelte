@@ -92,6 +92,11 @@
         <a target="_blank" href="tanarok.json">JSON</a>
       </div>
       <div class="af">
+        Tantárgyak adatforrás:
+        <a target="_blank" href="targyak.sql">SQL</a>
+        <a target="_blank" href="targyak.json">JSON</a>
+      </div>
+      <div class="af">
         Órarend adatforrás:
         <a target="_blank" href="orarend.sql">SQL</a>
         <a target="_blank" href="orarend.json">JSON</a>
@@ -137,6 +142,6 @@
     color: yellow;
   }
   div.targy span {
-    color:rgb(108, 204, 108);
+    color: rgb(108, 204, 108);
   }
 </style>
