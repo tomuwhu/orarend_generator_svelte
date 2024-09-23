@@ -112,6 +112,12 @@
 </main>
 
 <style lang="scss">
+  select {
+    font-size: 17px;
+    padding: 7px;
+    color: rgb(255, 200, 0);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }
   main {
     h1 {
       color: rgb(137, 200, 189);
@@ -125,6 +131,15 @@
   }
   table {
     border-spacing: 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+  th {
+    background-color: rgb(16, 26, 35);
+    box-shadow: 1px 1px 9px inset white;
+    padding: 9px;
+    border-radius: 6px;
+    color: rgb(95, 205, 203);
+    font-weight: normal;
   }
   td {
     width: 100px;
@@ -153,7 +168,7 @@
   div.oszt {
     font-size: 12px;
     text-shadow: 1px 1px 3px rgb(84, 8, 8);
-    font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+    font-family: Georgia, 'Times New Roman', Times, serif;
     font-weight: bold;
   }
   span.targy {
