@@ -15,9 +15,10 @@
       Cs: Array(14).fill(""),
       P: Array(14).fill(""),
     };
-    var { orarend } = await fetch("https://es6.eu/orarend.json").then((v) =>
-      v.json(),
-    );
+    var { orarend } = await fetch("http://localhost:5173/orarend_generator_svelte/orarend.json")
+      .then((v) =>
+        v.json(),
+      )
     tt = orarend.filter((v: { tanar: string }) => v.tanar == selected_tacher);
     //console.log(tt);
     tt.forEach((v) => {
@@ -32,15 +33,15 @@
     });
   }
   async function get_teacherlist() {
-    var { oktatok } = await fetch("https://es6.eu/tanarok.json").then((v) =>
-      v.json(),
-    );
-    ol = oktatok;
+    var { tanarok } = await fetch(
+      "https://tomuwhu.github.io/orarend_generator_svelte/tanarok.json",
+    ).then((v) => v.json());
+    ol = tanarok;
+    console.log(ol);
     ol.sort((a, b) => (a.familyname < b.familyname ? -1 : 1));
   }
   onMount(get_teacherlist);
 </script>
-
 <main>
   <h1>Órarend</h1>
   <select
@@ -82,7 +83,7 @@
         {/each}
       </table>
     {:else}
-      <br>
+      <br />
       <div class="af">
         Tanárok adatforrás:
         <a target="_blank" href="tanarok.sql">SQL</a>
