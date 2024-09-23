@@ -1,0 +1,2364 @@
+{
+"targyak":[
+ {
+  "ttrov": ";Acsgyak",
+  "ttnev": ";Ács gyakorlat"
+ },
+ {
+  "ttrov": ";Asztgyak",
+  "ttnev": ";Asztalos gyakorlat"
+ },
+ {
+  "ttrov": ";Autsz.gyak",
+  "ttnev": ";Autoszerelő gyakorlat"
+ },
+ {
+  "ttrov": ";Burkgyak",
+  "ttnev": ";Burkoló gyakorlat"
+ },
+ {
+  "ttrov": ";CSGY",
+  "ttnev": ";Csoportos gyakorlat"
+ },
+ {
+  "ttrov": ";Ertgy",
+  "ttnev": ";Értékesítési gyakorlat"
+ },
+ {
+  "ttrov": ";Festgyak",
+  "ttnev": ";Festő gyakorlat"
+ },
+ {
+  "ttrov": ";H+Szgyak",
+  "ttnev": ";H+Szgyak"
+ },
+ {
+  "ttrov": ";H+Vgyak",
+  "ttnev": ";Himző és varró gyakorlat"
+ },
+ {
+  "ttrov": ";Hgyak",
+  "ttnev": ";Himző gyakorlat"
+ },
+ {
+  "ttrov": ";Komgyak",
+  "ttnev": ";Kőműves gyakorlat"
+ },
+ {
+  "ttrov": ";Szgyak",
+  "ttnev": ";Szgyak"
+ },
+ {
+  "ttrov": ";Vgyak",
+  "ttnev": ";Varró gyakorlat"
+ },
+ {
+  "ttrov": ";Villgyak",
+  "ttnev": ";Villanyszerelő gyakorlat"
+ },
+ {
+  "ttrov": "Bsk",
+  "ttnev": "*A beteg szükségleteinek kielégítése"
+ },
+ {
+  "ttrov": "Bmfi",
+  "ttnev": "*A betegs. tünetei és a betegmegf. szempont."
+ },
+ {
+  "ttrov": "Bemb",
+  "ttnev": "*A bőr és az érzékszervek megbetegedései"
+ },
+ {
+  "ttrov": "Cskbf",
+  "ttnev": "*A csecsemő és kisgyermek beszédfejlődése"
+ },
+ {
+  "ttrov": "Cskmf",
+  "ttnev": "*A csecsemő és kisgyermek mozgásfejlődése"
+ },
+ {
+  "ttrov": "Goad",
+  "ttnev": "*A gondozás adminisztrációja"
+ },
+ {
+  "ttrov": "Goszf",
+  "ttnev": "*A gondozási szükségletek felmérése"
+ },
+ {
+  "ttrov": ".Goatt",
+  "ttnev": "*A gondozó attitüdje, képességek, készségek menth. elméletigényes gyak."
+ },
+ {
+  "ttrov": "Gdok",
+  "ttnev": "*A gondozó- nevelő munka szakmai dokumentálásaintézmény és demons"
+ },
+ {
+  "ttrov": "Gybf",
+  "ttnev": "*A gyermek biológiai fejlődése"
+ },
+ {
+  "ttrov": "Gyeki",
+  "ttnev": "*A gyermek ellátásával kapcsolatos ismeretek"
+ },
+ {
+  "ttrov": "Gyfkd",
+  "ttnev": "*A gyermek fejlődésével kapcsolatos dokumentáció"
+ },
+ {
+  "ttrov": "Gyjt",
+  "ttnev": "*A gyermek játéktevékenysége"
+ },
+ {
+  "ttrov": "Gymi",
+  "ttnev": "*A gyermek megfigyelése intézményi heti 1X"
+ },
+ {
+  "ttrov": "Gytf",
+  "ttnev": "*A gyermek testi fejlődése"
+ },
+ {
+  "ttrov": "Gyvz",
+  "ttnev": "*A gyermek viselkedésének zavarai"
+ },
+ {
+  "ttrov": "Gylf",
+  "ttnev": "*A gyermek, lelki, szociális fejlődése"
+ },
+ {
+  "ttrov": "Gymu",
+  "ttnev": "*A gyermekcsoport működése"
+ },
+ {
+  "ttrov": "Gyfd",
+  "ttnev": "*A gyermekfelügyelet dokumentációja"
+ },
+ {
+  "ttrov": "Gyomu",
+  "ttnev": "*A gyermekotthon működése"
+ },
+ {
+  "ttrov": "Gyesz",
+  "ttnev": "*A gyermekotthoni élet szervezése"
+ },
+ {
+  "ttrov": "Gysbh",
+  "ttnev": "*A gyógyászati segédeszközök beszerzése és használata"
+ },
+ {
+  "ttrov": "Gybhg",
+  "ttnev": "*A gyógyíthatatlan betegek és a haldoklók gondozása"
+ },
+ {
+  "ttrov": "Hgf",
+  "ttnev": "*A három év alatti gyermek gondozási feladatai"
+ },
+ {
+  "ttrov": "Higypd",
+  "ttnev": "*A házi időszakos gyermekellátás pszichológiai dimenziói"
+ },
+ {
+  "ttrov": "Hok",
+  "ttnev": "*A helyi önkormányzatok költségvetése"
+ },
+ {
+  "ttrov": "Jejk",
+  "ttnev": "*A jóléti ellátások jogi keretei"
+ },
+ {
+  "ttrov": "Jegy",
+  "ttnev": "*A jóléti ellátások jogi keretei, gyermvéd j."
+ },
+ {
+  "ttrov": "Kvrb",
+  "ttnev": "*A keringési- és a vérképző rendszer betegségei"
+ },
+ {
+  "ttrov": "Katk",
+  "ttnev": "*A kisgyermek aktív tevékenysége és a környezet"
+ },
+ {
+  "ttrov": "Kek",
+  "ttnev": "*A kisgyermek egészsége, közegésségügy"
+ },
+ {
+  "ttrov": "Kgd",
+  "ttnev": "*A kisgyermek gondozási gyakorlat\/  demons. "
+ },
+ {
+  "ttrov": "Kgi",
+  "ttnev": "*A kisgyermek gondozási gyakorlat\/intézményi."
+ },
+ {
+  "ttrov": "Kgyhiv",
+  "ttnev": "*A kisgyermek gondozó- nevelő, mint hivatás \/ szocializáció folyamata"
+ },
+ {
+  "ttrov": "Kgyszf",
+  "ttnev": "*A kisgyermek személyiségének fejlődése"
+ },
+ {
+  "ttrov": "Kgyt",
+  "ttnev": "*A kisgyermek táplálása"
+ },
+ {
+  "ttrov": "Kne",
+  "ttnev": "*A kisgyermekgondozás és nevelés egysége"
+ },
+ {
+  "ttrov": "Kped",
+  "ttnev": "*A kisgyermekkor pedagógiája"
+ },
+ {
+  "ttrov": "Lb",
+  "ttnev": "*A légzőrendszer betegségei"
+ },
+ {
+  "ttrov": "Mmtsz",
+  "ttnev": "*A mai magyar társadalom szerkezete"
+ },
+ {
+  "ttrov": "Mvsz",
+  "ttnev": "*A munkát vállaló szülő és a gyermek"
+ },
+ {
+  "ttrov": "Nkesz",
+  "ttnev": "*A napközbeni ellátás, mint szolgáltatás"
+ },
+ {
+  "ttrov": "Naszg",
+  "ttnev": "*A nem állami szervek gazdálkodása"
+ },
+ {
+  "ttrov": "Szgd",
+  "ttnev": "*A személyes gondoskodás dilemmái"
+ },
+ {
+  "ttrov": "Szggy",
+  "ttnev": "*A személyes gondoskodás gyakorlata"
+ },
+ {
+  "ttrov": "Szmka",
+  "ttnev": "*A szervezet működését károsító állapotok"
+ },
+ {
+  "ttrov": "Szet",
+  "ttnev": "*A szociális ellátás tervezése"
+ },
+ {
+  "ttrov": "Szem",
+  "ttnev": "*A szociális ellátások marketingje"
+ },
+ {
+  "ttrov": "Szgad",
+  "ttnev": "*A szociális gond, szerv adminisztrációs gyak"
+ },
+ {
+  "ttrov": "Szig",
+  "ttnev": "*A szociális intézmények gazdálkodásának gyakorlata"
+ },
+ {
+  "ttrov": "Szadm",
+  "ttnev": "*A szociális szolgáltatások adminisztrációjának ismeretei"
+ },
+ {
+  "ttrov": "Szfin",
+  "ttnev": "*A szociális szolgáltatások finanszírozási formái"
+ },
+ {
+  "ttrov": "Szf",
+  "ttnev": "*A szocializáció folyamata"
+ },
+ {
+  "ttrov": "Szuf",
+  "ttnev": "*A szükségletfelmérés gyakorlata"
+ },
+ {
+  "ttrov": "Veal",
+  "ttnev": "*A vezetés alapjai"
+ },
+ {
+  "ttrov": ".Adm",
+  "ttnev": "*Adminisztrációs gyakorlat intézményi heti 1X"
+ },
+ {
+  "ttrov": "Akfo",
+  "ttnev": "*Aktivitás és foglalkozás"
+ },
+ {
+  "ttrov": "Aáf",
+  "ttnev": "*Alapápolási feladatok"
+ },
+ {
+  "ttrov": ".Aa",
+  "ttnev": "*Alapápolási gyakorlat"
+ },
+ {
+  "ttrov": "Abel",
+  "ttnev": "*Alapápolási gyakorlat a belgyógyászaton"
+ },
+ {
+  "ttrov": "Aseb",
+  "ttnev": "*Alapápolási gyakorlat a sebészeten"
+ },
+ {
+  "ttrov": "Aapi",
+  "ttnev": "*Alapápolási ismeretek"
+ },
+ {
+  "ttrov": "Arj",
+  "ttnev": "*Általános és részletes járványtan"
+ },
+ {
+  "ttrov": "Ark",
+  "ttnev": "*Általános és részletes kórtan"
+ },
+ {
+  "ttrov": "Anel",
+  "ttnev": "*Anatómia-élettan"
+ },
+ {
+  "ttrov": "Aeb",
+  "ttnev": "*Ápolás elmélete - betegbiztonság"
+ },
+ {
+  "ttrov": "Aeko",
+  "ttnev": "*Ápolás elmélete, kockázatai"
+ },
+ {
+  "ttrov": "Aeku",
+  "ttnev": "*Ápolás elmélete,kutatása"
+ },
+ {
+  "ttrov": "Aeti",
+  "ttnev": "*Ápolás etika"
+ },
+ {
+  "ttrov": "Agy",
+  "ttnev": "*Ápolás gyakorlata"
+ },
+ {
+  "ttrov": "Atu",
+  "ttnev": "*Ápolás tudomány"
+ },
+ {
+  "ttrov": "Aako",
+  "ttnev": "*Ápolási asszisztens kompetenciája "
+ },
+ {
+  "ttrov": "Aafe",
+  "ttnev": "*Ápolási asszisztensi feladatok"
+ },
+ {
+  "ttrov": "Apf",
+  "ttnev": "*Ápolási feladatok"
+ },
+ {
+  "ttrov": "Apfe",
+  "ttnev": "*Ápolási feladatok elm."
+ },
+ {
+  "ttrov": ".Apf",
+  "ttnev": "*Ápolási feladatok gyak."
+ },
+ {
+  "ttrov": "Agi",
+  "ttnev": "*Ápolási gondozási intézményben"
+ },
+ {
+  "ttrov": "Api",
+  "ttnev": "*Ápolási ismeretek"
+ },
+ {
+  "ttrov": "Apie",
+  "ttnev": "*Ápolási ismeretek elm."
+ },
+ {
+  "ttrov": ".Api",
+  "ttnev": "*Ápolási ismeretek gyak."
+ },
+ {
+  "ttrov": "Aszf",
+  "ttnev": "*Ápolási szükségletek felmérése"
+ },
+ {
+  "ttrov": "Atgy",
+  "ttnev": "*Ápolási terápiás gyakorlatok"
+ },
+ {
+  "ttrov": "Ati",
+  "ttnev": "*Ápolási terápiás ismeretek"
+ },
+ {
+  "ttrov": "Avei",
+  "ttnev": "*Ápolási vizsgálatok - előkészületek ismeretei"
+ },
+ {
+  "ttrov": "Avegy",
+  "ttnev": "*Ápolási vizsgálatok -előkészületek gyakorlata"
+ },
+ {
+  "ttrov": "Adf",
+  "ttnev": "*Ápolói diagnosztikai feladatok, beteg és eszköz előkészítés elm."
+ },
+ {
+  "ttrov": ".Apd",
+  "ttnev": "*Ápolói diagnosztikai feladatok, beteg és eszköz előkészítés gyak."
+ },
+ {
+  "ttrov": "Atie",
+  "ttnev": "*Ápolói terápiák ismerete elm."
+ },
+ {
+  "ttrov": "Atigy",
+  "ttnev": "*Ápolói terápiák ismerete gyak."
+ },
+ {
+  "ttrov": "Adea",
+  "ttnev": "*Az adminisztráció elméleti alapjai"
+ },
+ {
+  "ttrov": "Apad",
+  "ttnev": "*Az ápolás adminisztrációja"
+ },
+ {
+  "ttrov": "Evdok",
+  "ttnev": "*Az egészségvédelem dokumentációja"
+ },
+ {
+  "ttrov": "Ecsm",
+  "ttnev": "*Az egyéni és családsegítő munka gyakorlata"
+ },
+ {
+  "ttrov": "Eecs",
+  "ttnev": "*Az egyéni esetkezelés és a családsegítés gyakorlata"
+ },
+ {
+  "ttrov": "Eszj",
+  "ttnev": "*Az egyes szolgáltatások jellemzői"
+ },
+ {
+  "ttrov": "Eszf",
+  "ttnev": "*Az ellátási szükségletek felmérésének gyakorlata számítógépes teremben"
+ },
+ {
+  "ttrov": "Etfm",
+  "ttnev": "*Az emberi test felépítése és működése"
+ },
+ {
+  "ttrov": "Etm",
+  "ttnev": "*Az emberi test működése"
+ },
+ {
+  "ttrov": "Ebab",
+  "ttnev": "*Az emésztőrendszer betegségei anyagcsere betegségek"
+ },
+ {
+  "ttrov": "Iego",
+  "ttnev": "*Az idős emberek gondozásának gyakorlata"
+ },
+ {
+  "ttrov": "Igts",
+  "ttnev": "*Az idősgondozás tervezése sajátosságai"
+ },
+ {
+  "ttrov": "Iekd",
+  "ttnev": "*Az intézmény ellenőrzésével kapcsolatos dokumentumok"
+ },
+ {
+  "ttrov": "Imkd",
+  "ttnev": "*Az intézmény működésével kapcsolatos dokumentumok"
+ },
+ {
+  "ttrov": "Igt",
+  "ttnev": "*Az intézményi gazdálkodás tervezése"
+ },
+ {
+  "ttrov": "Bv",
+  "ttnev": "*Balesetvédelem"
+ },
+ {
+  "ttrov": "Bea",
+  "ttnev": "*Beavatkozások"
+ },
+ {
+  "ttrov": "Bel",
+  "ttnev": "*Belgyógyászat "
+ },
+ {
+  "ttrov": "Belko",
+  "ttnev": "*Belgyógyászati \/ krónikus \/osztályon"
+ },
+ {
+  "ttrov": "Belo",
+  "ttnev": "*Belgyógyászati osztályon "
+ },
+ {
+  "ttrov": "Bak",
+  "ttnev": "*Betegbiztonság ,ápolási kockázatok"
+ },
+ {
+  "ttrov": "Bszk",
+  "ttnev": "*Betegszállítás,kísérés"
+ },
+ {
+  "ttrov": "Biofi",
+  "ttnev": "*Biofizika"
+ },
+ {
+  "ttrov": "Bioke",
+  "ttnev": "*Biokémia"
+ },
+ {
+  "ttrov": "Csel",
+  "ttnev": "*Család és életmód"
+ },
+ {
+  "ttrov": "Css",
+  "ttnev": "*Családsegítés"
+ },
+ {
+  "ttrov": "Cssr",
+  "ttnev": "*Családsegítés részfeladatai"
+ },
+ {
+  "ttrov": "Csgyo",
+  "ttnev": "*Csecsemő és gyermek osztályon"
+ },
+ {
+  "ttrov": "Csszm",
+  "ttnev": "*Csoportokkal végzett szociális munka gyakorlata"
+ },
+ {
+  "ttrov": "Demo",
+  "ttnev": "*Demostrációs termi gyak. \/Megfigyelés észlelésből"
+ },
+ {
+  "ttrov": "Diag",
+  "ttnev": "*Diagnosztika"
+ },
+ {
+  "ttrov": "Diai",
+  "ttnev": "*Diagnosztikai ismeretek"
+ },
+ {
+  "ttrov": "Diet",
+  "ttnev": "*Dietetika"
+ },
+ {
+  "ttrov": "Dieti",
+  "ttnev": "*Dietetikai ismeretek"
+ },
+ {
+  "ttrov": "Egb",
+  "ttnev": "*Egészség betegség"
+ },
+ {
+  "ttrov": "Eta",
+  "ttnev": "*Egészséges táplálkozás"
+ },
+ {
+  "ttrov": "Egf",
+  "ttnev": "*Egészségfejlesztés"
+ },
+ {
+  "ttrov": "Ege",
+  "ttnev": "*Egészséggondozás elm."
+ },
+ {
+  "ttrov": "Egy",
+  "ttnev": "*Egészséggondozás gyak."
+ },
+ {
+  "ttrov": "Egor",
+  "ttnev": "*Egészségmegőrzés"
+ },
+ {
+  "ttrov": "Egn",
+  "ttnev": "*Egészségnevelés"
+ },
+ {
+  "ttrov": "Egp",
+  "ttnev": "*Egészségpedagógia"
+ },
+ {
+  "ttrov": "Emk",
+  "ttnev": "*Egészségtudatos magatartás kialakítása"
+ },
+ {
+  "ttrov": "Ecssz",
+  "ttnev": "*Egyének és családok szükségleteti"
+ },
+ {
+  "ttrov": "Eek",
+  "ttnev": "*Egyéni esetkezelés"
+ },
+ {
+  "ttrov": "Eesr",
+  "ttnev": "*Egyéni esetkezelés részfeladatai"
+ },
+ {
+  "ttrov": "Emv",
+  "ttnev": "*Életmódváltás"
+ },
+ {
+  "ttrov": "Epsz",
+  "ttnev": "*Életút pszichológia"
+ },
+ {
+  "ttrov": "Ea",
+  "ttnev": "*Elkülönített alapok"
+ },
+ {
+  "ttrov": "Esnye",
+  "ttnev": "*Első segítség nyújtás alapismeretei elm."
+ },
+ {
+  "ttrov": "Esgy",
+  "ttnev": "*Első segítség nyújtás gyakorlata"
+ },
+ {
+  "ttrov": "Eszgy",
+  "ttnev": "*Elsősegély nyújtási  szakmai gyakorlatok"
+ },
+ {
+  "ttrov": ".Enyai",
+  "ttnev": "*Elsősegély nyújtási alapismeretek gyak."
+ },
+ {
+  "ttrov": "Esny",
+  "ttnev": "*Elsősegélynyújtás"
+ },
+ {
+  "ttrov": "Esnyd",
+  "ttnev": "*Elsősegélynyújtás \/demons"
+ },
+ {
+  "ttrov": ".Eny",
+  "ttnev": "*Elsősegélynyújtás gyakorlata"
+ },
+ {
+  "ttrov": "Esnyi",
+  "ttnev": "*Elsősegélynyújtási ismeretek"
+ },
+ {
+  "ttrov": "Efkf",
+  "ttnev": "*Eltérő fejlődés, korai fejlesztés"
+ },
+ {
+  "ttrov": "Ebdm",
+  "ttnev": "*Endokrin betegségek daganatos megbetegedések"
+ },
+ {
+  "ttrov": "Eszi",
+  "ttnev": "*Érdekérvényesítés a szociális intézményekben"
+ },
+ {
+  "ttrov": "Ecsgy",
+  "ttnev": "*Esetkezelés és családsegítés gyakorlata"
+ },
+ {
+  "ttrov": "Esmb",
+  "ttnev": "*Esetmegbeszélés"
+ },
+ {
+  "ttrov": "Eti",
+  "ttnev": "*Etika"
+ },
+ {
+  "ttrov": "Etsz",
+  "ttnev": "*Etikai szabályok"
+ },
+ {
+  "ttrov": "Etjk",
+  "ttnev": "*Etikus jogszerű kommunikáció"
+ },
+ {
+  "ttrov": "Fszla",
+  "ttnev": "*Fejlődés - és személyiség - lélektani alapismeretek"
+ },
+ {
+  "ttrov": "Frf",
+  "ttnev": "*Fejlődési rendellenességek, fogyatékosságok"
+ },
+ {
+  "ttrov": "Fer",
+  "ttnev": "*Fertőtlenítés, sterilizálás"
+ },
+ {
+  "ttrov": "Feloz",
+  "ttnev": "*Fertőzések megelőzése"
+ },
+ {
+  "ttrov": "Fgy",
+  "ttnev": "*Foglalkozási gyakorlat"
+ },
+ {
+  "ttrov": "Freh",
+  "ttnev": "*Fogyatékosságok és rehabilitációjuk"
+ },
+ {
+  "ttrov": "Fogo",
+  "ttnev": "*Fül -orr-gégészeti osztályon"
+ },
+ {
+  "ttrov": "Geri",
+  "ttnev": "*Geriátria"
+ },
+ {
+  "ttrov": "Girl",
+  "ttnev": "*Gerontológia és az idősek rehabilitációjának lehetőségei"
+ },
+ {
+  "ttrov": "Gon",
+  "ttnev": "*Gondozás"
+ },
+ {
+  "ttrov": ".Go",
+  "ttnev": "*Gondozási gyakorlat"
+ },
+ {
+  "ttrov": "Goi",
+  "ttnev": "*Gondozási ismeretek"
+ },
+ {
+  "ttrov": ".Goi",
+  "ttnev": "*Gondozási ismeretek gyak."
+ },
+ {
+  "ttrov": ";Gyak",
+  "ttnev": "*Gyakorlat"
+ },
+ {
+  "ttrov": "Gycs",
+  "ttnev": "*Gyakorlat a család és életmód körében"
+ },
+ {
+  "ttrov": "Gyb",
+  "ttnev": "*Gyermekbetegségek"
+ },
+ {
+  "ttrov": "Gyny",
+  "ttnev": "*Gyermekellátási gyakorlat nyári összefüggő"
+ },
+ {
+  "ttrov": ".Gyagy",
+  "ttnev": "*Gyermekgondozási, ápolási gyakorlat demons"
+ },
+ {
+  "ttrov": "Gygy",
+  "ttnev": "*Gyermekgyógyászat"
+ },
+ {
+  "ttrov": "Gyevn",
+  "ttnev": "*Gyermekirodalom, ének, zene, vizuális nevelés"
+ },
+ {
+  "ttrov": "Gyod",
+  "ttnev": "*Gyermekotthoni dokumentáció"
+ },
+ {
+  "ttrov": "Gyogy",
+  "ttnev": "*Gyermekotthoni gyakorlat"
+ },
+ {
+  "ttrov": "Gyvj",
+  "ttnev": "*Gyermekvédelmi jogok"
+ },
+ {
+  "ttrov": "Gysz",
+  "ttnev": "*Gyógyszerelés"
+ },
+ {
+  "ttrov": ".Gysz",
+  "ttnev": "*Gyógyszerelési gyakorlat"
+ },
+ {
+  "ttrov": "Gyszt",
+  "ttnev": "*Gyógyszertan"
+ },
+ {
+  "ttrov": "Hael",
+  "ttnev": "*Haldoklók és elhunytak"
+ },
+ {
+  "ttrov": ".Htgy",
+  "ttnev": "*Háztartási gyakorlat"
+ },
+ {
+  "ttrov": "Hti",
+  "ttnev": "*Háztartási ismeretek"
+ },
+ {
+  "ttrov": "Hfi",
+  "ttnev": "*Higiénés és fertőtlenítési ismeretek"
+ },
+ {
+  "ttrov": "Hos",
+  "ttnev": "*Hospice"
+ },
+ {
+  "ttrov": "Iea",
+  "ttnev": "*Ideg- és elmegyógyászati alapok"
+ },
+ {
+  "ttrov": "Inti",
+  "ttnev": "*Intézmény megismerése"
+ },
+ {
+  "ttrov": "Jtan",
+  "ttnev": "*Járványtan"
+ },
+ {
+  "ttrov": "Jtmb",
+  "ttnev": "*Járványtan-mikrobiológia"
+ },
+ {
+  "ttrov": "Jog",
+  "ttnev": "*Jogi alapismeretek"
+ },
+ {
+  "ttrov": "Jei",
+  "ttnev": "*Jogi és etikai ismeretek "
+ },
+ {
+  "ttrov": "Ji",
+  "ttnev": "*Jogi ismeretek "
+ },
+ {
+  "ttrov": "Jsz",
+  "ttnev": "*Jogi szabályok"
+ },
+ {
+  "ttrov": "Kskm",
+  "ttnev": "*Készségf. a segítő kapcsolat működtetéséhez"
+ },
+ {
+  "ttrov": "Kef",
+  "ttnev": "*Készségfejlesztés"
+ },
+ {
+  "ttrov": "Kfsk",
+  "ttnev": "*Készségfejlesztés a segítő kapcsolat működtetéséhez"
+ },
+ {
+  "ttrov": "Klgy",
+  "ttnev": "*Klinikai gyakorlat"
+ },
+ {
+  "ttrov": "Kltgy",
+  "ttnev": "*Klinikai területi gyakorlatok "
+ },
+ {
+  "ttrov": "Kbm",
+  "ttnev": "*Kommunikáció a beteggel, munkatársakkal"
+ },
+ {
+  "ttrov": "Kesz",
+  "ttnev": "*Kommunikáció az egészségügyi szolgálatban"
+ },
+ {
+  "ttrov": "Kszk",
+  "ttnev": "*Kommunikáció, szakmai kommunikáció"
+ },
+ {
+  "ttrov": "Kk",
+  "ttnev": "*Kórok és kórokozók"
+ },
+ {
+  "ttrov": "Kdi",
+  "ttnev": "*Kórtani-diagnosztikai ismeretek"
+ },
+ {
+  "ttrov": "Ktgy",
+  "ttnev": "*Kölcsönös tájékozódás a gyermekről"
+ },
+ {
+  "ttrov": "Kvai",
+  "ttnev": "*Költségvetési alapismeretek"
+ },
+ {
+  "ttrov": "Keg",
+  "ttnev": "*Közegészség"
+ },
+ {
+  "ttrov": "Kegt",
+  "ttnev": "*Közegészségtan"
+ },
+ {
+  "ttrov": "Kga",
+  "ttnev": "*Közgazdasági alapismeretek"
+ },
+ {
+  "ttrov": "Kii",
+  "ttnev": "*Közigazgatási ismeretek"
+ },
+ {
+  "ttrov": "Kszm",
+  "ttnev": "*Közösségi szociális munka"
+ },
+ {
+  "ttrov": "Kszmg",
+  "ttnev": "*Közösségi szociális munka gyakorlata"
+ },
+ {
+  "ttrov": "Lat",
+  "ttnev": "*Latin nyelv"
+ },
+ {
+  "ttrov": "Le",
+  "ttnev": "*Lelki egészség"
+ },
+ {
+  "ttrov": "Lev",
+  "ttnev": "*Lelki egészségvédelem"
+ },
+ {
+  "ttrov": "Lbg",
+  "ttnev": "*Létszám és bérgazdálkodás"
+ },
+ {
+  "ttrov": "Mny",
+  "ttnev": "*Magyar nyelv "
+ },
+ {
+  "ttrov": "Mmt",
+  "ttnev": "*Mai magyar társadalom"
+ },
+ {
+  "ttrov": "Mff",
+  "ttnev": "*Megfigyelési feladatok"
+ },
+ {
+  "ttrov": "Mm",
+  "ttnev": "*Menedzsment"
+ },
+ {
+  "ttrov": "Meal",
+  "ttnev": "*Mentálhigiéné-ápolás lélektan "
+ },
+ {
+  "ttrov": "Mbt",
+  "ttnev": "*Munka- baleset- és tűzvédelem"
+ },
+ {
+  "ttrov": "Mbtgy",
+  "ttnev": "*Munka- baleset- és tűzvédelemi gyakorlat"
+ },
+ {
+  "ttrov": "Mvtu",
+  "ttnev": "*Munkavédelem-tűzvédelem"
+ },
+ {
+  "ttrov": "Nevp",
+  "ttnev": "*Nevelési ismeretek \/ pszichológia"
+ },
+ {
+  "ttrov": "Nszb",
+  "ttnev": "*Normák szabályok betartása"
+ },
+ {
+  "ttrov": "Nof",
+  "ttnev": "*Nosocomiális fertőzések"
+ },
+ {
+  "ttrov": "Olat",
+  "ttnev": "*Orvosi latin"
+ },
+ {
+  "ttrov": "Oasz",
+  "ttnev": "*Otthoni ápolási szolgálatnál"
+ },
+ {
+  "ttrov": "Psz",
+  "ttnev": "*Pedagógia - szociológia"
+ },
+ {
+  "ttrov": "Pai",
+  "ttnev": "*Pedagógiai alapismeretek"
+ },
+ {
+  "ttrov": "Pfe",
+  "ttnev": "*Pedagógiai feladatok ellátása"
+ },
+ {
+  "ttrov": "Pdo",
+  "ttnev": "*Probléma definiálásnak összefügg."
+ },
+ {
+  "ttrov": "Pfgy",
+  "ttnev": "*Problémák feltárásának gyakorlata"
+ },
+ {
+  "ttrov": "Pfm",
+  "ttnev": "*Problémák feltárásának módszerei"
+ },
+ {
+  "ttrov": "Pszo",
+  "ttnev": "*Pszichiátriai osztályon"
+ },
+ {
+  "ttrov": "Pszni",
+  "ttnev": "*Pszichológiai alapismeretek, nevelési ism."
+ },
+ {
+  "ttrov": "Pim",
+  "ttnev": "*Pszichológiai ismeretszerzés módszerei"
+ },
+ {
+  "ttrov": "Rea",
+  "ttnev": "*Reumatológiai alapismeretek"
+ },
+ {
+  "ttrov": "Sm",
+  "ttnev": "*Sebek és műtétek"
+ },
+ {
+  "ttrov": "Seb",
+  "ttnev": "*Sebészet"
+ },
+ {
+  "ttrov": "Seib",
+  "ttnev": "*Sebészeti ellátást igénylő betegségek"
+ },
+ {
+  "ttrov": "Sebo",
+  "ttnev": "*Sebészeti osztályon"
+ },
+ {
+  "ttrov": "Skk",
+  "ttnev": "*Segítő kapcsolat kommunikációja"
+ },
+ {
+  "ttrov": "So",
+  "ttnev": "*Sérülések osztályozása"
+ },
+ {
+  "ttrov": "Szaf",
+  "ttnev": "*Szabadidő fontossága"
+ },
+ {
+  "ttrov": "Szeti",
+  "ttnev": "*Szakmai etika"
+ },
+ {
+  "ttrov": "Szszf",
+  "ttnev": "*Szakmai személyiségfejlesztés"
+ },
+ {
+  "ttrov": "Sztgy",
+  "ttnev": "*Számítástechnikai gyakorlat"
+ },
+ {
+  "ttrov": "Szti",
+  "ttnev": "*Számítástechnikai ismeretek"
+ },
+ {
+  "ttrov": "Szpsz",
+  "ttnev": "*Személyiség pszichológia"
+ },
+ {
+  "ttrov": "Szr",
+  "ttnev": "*Szenvedélybetegségek és rehabilitáció"
+ },
+ {
+  "ttrov": "Szemu",
+  "ttnev": "*Szervezet működését károsító állapotok"
+ },
+ {
+  "ttrov": "Szszo",
+  "ttnev": "*Szervezetszociológia"
+ },
+ {
+  "ttrov": "Szoai",
+  "ttnev": "*Szervezetszociológiai alapismeretek"
+ },
+ {
+  "ttrov": "Szelf",
+  "ttnev": "*Szociális ellátás finanszírozása"
+ },
+ {
+  "ttrov": "Szm",
+  "ttnev": "*Szociális munka"
+ },
+ {
+  "ttrov": "Szmcs",
+  "ttnev": "*Szociális munka csoportokkal"
+ },
+ {
+  "ttrov": "Szmtk",
+  "ttnev": "*Szociális munka társadalmi közege"
+ },
+ {
+  "ttrov": "Szpms",
+  "ttnev": "*Szociális problémák megoldásának sajátosságai"
+ },
+ {
+  "ttrov": "Szpt",
+  "ttnev": "*Szociális problémák tudatosítása"
+ },
+ {
+  "ttrov": "Szpm",
+  "ttnev": "*Szociális problémamgeoldás"
+ },
+ {
+  "ttrov": "Szoc",
+  "ttnev": "*Szocializáció"
+ },
+ {
+  "ttrov": "Szoco",
+  "ttnev": "*Szocializációs összefüggések"
+ },
+ {
+  "ttrov": "Szpint",
+  "ttnev": "*Szociálpolitika intézményrendszere"
+ },
+ {
+  "ttrov": "Szpi",
+  "ttnev": "*Szociálpolitikai alapismeretek"
+ },
+ {
+  "ttrov": "Szpa",
+  "ttnev": "*Szociálpolitikai alapok"
+ },
+ {
+  "ttrov": "Szpbip",
+  "ttnev": "*Szociálpolitikai beavatkozást igénylő problémák"
+ },
+ {
+  "ttrov": "Szpmo",
+  "ttnev": "*Szociálpolitikai monitorozás \/ Monitorozó"
+ },
+ {
+  "ttrov": "Szpszi",
+  "ttnev": "*Szociálpszichológia"
+ },
+ {
+  "ttrov": "Szpai",
+  "ttnev": "*Szociálpszichológiai alapismeretek"
+ },
+ {
+  "ttrov": "Szpjf",
+  "ttnev": "*Szociálpszichológiai jelenségek és folyamatok"
+ },
+ {
+  "ttrov": "Szoa",
+  "ttnev": "*Szociológiai alapismeretek"
+ },
+ {
+  "ttrov": "Szaigy",
+  "ttnev": "*Szociológiai alapismeretek gyakorlat"
+ },
+ {
+  "ttrov": "Szgy",
+  "ttnev": "*Szociológiai gyakorlat"
+ },
+ {
+  "ttrov": "Szvi",
+  "ttnev": "*Szupervízió"
+ },
+ {
+  "ttrov": "Szecs",
+  "ttnev": "*Szükségletek és erőforrások a csoportban"
+ },
+ {
+  "ttrov": "Szeke",
+  "ttnev": "*Szükségletek és erőforrások komplex értelmezése"
+ },
+ {
+  "ttrov": "Szfgy",
+  "ttnev": "*Szükségletfelmérési gyakorlat"
+ },
+ {
+  "ttrov": "Szek",
+  "ttnev": "*Szükséletek és erőforrások a közösségben"
+ },
+ {
+  "ttrov": "Szul",
+  "ttnev": "*Szülészet-nőgyógyászati osztályon"
+ },
+ {
+  "ttrov": "Tesz",
+  "ttnev": "*Társadalmi egyenlőtlenség és szegénység"
+ },
+ {
+  "ttrov": "Tstr",
+  "ttnev": "*Társadalmi struktúra"
+ },
+ {
+  "ttrov": "Tiko",
+  "ttnev": "*Társadalomintegrációjával kapcsolatos összefüggések"
+ },
+ {
+  "ttrov": "Tto",
+  "ttnev": "*Társadalomtörténeti összefüggések"
+ },
+ {
+  "ttrov": "Tke",
+  "ttnev": "*Település és környezetegészségtan"
+ },
+ {
+  "ttrov": "Tei",
+  "ttnev": "*Terápiás ismeretek"
+ },
+ {
+  "ttrov": "Tegy",
+  "ttnev": "*Természetgyógyászat \/ alternatív terápiák"
+ },
+ {
+  "ttrov": "Trau",
+  "ttnev": "*Traumatológiai osztályon"
+ },
+ {
+  "ttrov": "Tun",
+  "ttnev": "*Tünetek észlelése\/mérése-dokumentálása"
+ },
+ {
+  "ttrov": "Urol",
+  "ttnev": "*Urológia és a nemi szervek megbetegedései"
+ },
+ {
+  "ttrov": "Vhmt",
+  "ttnev": "*Veszélyes hulladékkezelés, munka és tűzvédelem"
+ },
+ {
+  "ttrov": "Vszgy",
+  "ttnev": "*Vezetési szervezési gyakorlat"
+ },
+ {
+  "ttrov": "Szpv",
+  "ttnev": "A szociális pályák világa"
+ },
+ {
+  "ttrov": "Alapszgyak",
+  "ttnev": "Alapszerkesztési gyakorlat"
+ },
+ {
+  "ttrov": "aBio",
+  "ttnev": "Alkalmazott biológia"
+ },
+ {
+  "ttrov": "aKe",
+  "ttnev": "Alkalmazott kémia"
+ },
+ {
+  "ttrov": "Aai",
+  "ttnev": "Általános áruismeret"
+ },
+ {
+  "ttrov": "Asz",
+  "ttnev": "Általános és személyiséglélektan"
+ },
+ {
+  "ttrov": "Aji",
+  "ttnev": "Általános jogi ismeretek"
+ },
+ {
+  "ttrov": "Ana",
+  "ttnev": "Anatómia"
+ },
+ {
+  "ttrov": "Anata",
+  "ttnev": "Anatómia és élettan"
+ },
+ {
+  "ttrov": "A",
+  "ttnev": "Angol nyelv"
+ },
+ {
+  "ttrov": "Anygy",
+  "ttnev": "Anyag- és gyártásismeret"
+ },
+ {
+  "ttrov": "Anyag",
+  "ttnev": "Anyagismeret"
+ },
+ {
+  "ttrov": "Anyism I.",
+  "ttnev": "Anyagismeret I."
+ },
+ {
+  "ttrov": "Anyism II.",
+  "ttnev": "Anyagismeret II."
+ },
+ {
+  "ttrov": "Avizsg",
+  "ttnev": "Anyagvizsgálatok"
+ },
+ {
+  "ttrov": "Ai",
+  "ttnev": "Áruforgalmi ismeretek"
+ },
+ {
+  "ttrov": "Aany",
+  "ttnev": "Asztalos anyagismeret"
+ },
+ {
+  "ttrov": "Aszg",
+  "ttnev": "Asztalos szakmai és gépismeret"
+ },
+ {
+  "ttrov": "Aszr",
+  "ttnev": "Asztalos szerkezettan-szakrajz"
+ },
+ {
+  "ttrov": "Epv",
+  "ttnev": "Az egészségügyi pályák világa"
+ },
+ {
+  "ttrov": "Bri",
+  "ttnev": "Belügyi rendészeti ismeretek"
+ },
+ {
+  "ttrov": "Bksz",
+  "ttnev": "Bevezetés a kereskedelem szervezezésébe"
+ },
+ {
+  "ttrov": "Bkv",
+  "ttnev": "Bevezetés a kereskedelmi vállalkozások gazdálkodásába"
+ },
+ {
+  "ttrov": "Bepsz",
+  "ttnev": "Bevezetés az építészeti szakmai számításokba"
+ },
+ {
+  "ttrov": "Bio",
+  "ttnev": "Biológia"
+ },
+ {
+  "ttrov": "Bio_v",
+  "ttnev": "Biológia választott"
+ },
+ {
+  "ttrov": "Be",
+  "ttnev": "Burkolás előkészítése"
+ },
+ {
+  "ttrov": "CNC_f",
+  "ttnev": "CNC forgácsolás"
+ },
+ {
+  "ttrov": "CNC_i",
+  "ttnev": "CNC ismeretek"
+ },
+ {
+  "ttrov": "Cuism",
+  "ttnev": "Cukrász ismeret"
+ },
+ {
+  "ttrov": "Edz",
+  "ttnev": "Edzés"
+ },
+ {
+  "ttrov": "Egg",
+  "ttnev": "Egészséggondozás"
+ },
+ {
+  "ttrov": "Egt",
+  "ttnev": "Egészségtan"
+ },
+ {
+  "ttrov": "Ef",
+  "ttnev": "Egyéni foglalkozás"
+ },
+ {
+  "ttrov": "Ek",
+  "ttnev": "Elektrokozmetika"
+ },
+ {
+  "ttrov": "EeváI",
+  "ttnev": "Élelmiszer és vegyiáruk áruismerete I."
+ },
+ {
+  "ttrov": "Elelmism",
+  "ttnev": "Élelmiszer ismeret"
+ },
+ {
+  "ttrov": "Evau",
+  "ttnev": "Élelmiszer- és vegyiáru áruismeret"
+ },
+ {
+  "ttrov": "El",
+  "ttnev": "Életmód"
+ },
+ {
+  "ttrov": "Et",
+  "ttnev": "Emberi test"
+ },
+ {
+  "ttrov": "En",
+  "ttnev": "Ének-zene"
+ },
+ {
+  "ttrov": "Eai",
+  "ttnev": "Építészeti alapismeretek"
+ },
+ {
+  "ttrov": "Emr",
+  "ttnev": "Építészeti műszaki rajz"
+ },
+ {
+  "ttrov": "Epa",
+  "ttnev": "Építőanyagok"
+ },
+ {
+  "ttrov": "Ep.alapism",
+  "ttnev": "Építőipari alapismeretek"
+ },
+ {
+  "ttrov": "Epat",
+  "ttnev": "Építőipari alaptevékenységek"
+ },
+ {
+  "ttrov": "Epg",
+  "ttnev": "Építőipari gépek"
+ },
+ {
+  "ttrov": "Eszagy",
+  "ttnev": "Építőipari szakmai alapozó gyakorlat"
+ },
+ {
+  "ttrov": "Epany",
+  "ttnev": "Épületburkoló anyagismeret"
+ },
+ {
+  "ttrov": "Epszi",
+  "ttnev": "Épületburkoló szakmai ismeretek"
+ },
+ {
+  "ttrov": "Ebszr",
+  "ttnev": "Épületburkoló szakrajz"
+ },
+ {
+  "ttrov": "Epd",
+  "ttnev": "Épületdiagnosztika"
+ },
+ {
+  "ttrov": "Eff",
+  "ttnev": "Érettségire felkészítő foglalkozás"
+ },
+ {
+  "ttrov": "Eszterg",
+  "ttnev": "Esztergálás"
+ },
+ {
+  "ttrov": "Etitkeszism",
+  "ttnev": "Étel és ital készítési ismeret"
+ },
+ {
+  "ttrov": "Etkeszism",
+  "ttnev": "Ételkészítési ismeret"
+ },
+ {
+  "ttrov": "Etk",
+  "ttnev": "Etika és kommunikáció"
+ },
+ {
+  "ttrov": ".Etk",
+  "ttnev": "Etika és kommunikáció (egy)"
+ },
+ {
+  "ttrov": "Fany",
+  "ttnev": "Faipari anyagismeret"
+ },
+ {
+  "ttrov": "Fagy",
+  "ttnev": "Faipari szakmai alapozó gyakorlat"
+ },
+ {
+  "ttrov": "Fszai",
+  "ttnev": "Faipari szakmai alapozó ismeretek"
+ },
+ {
+  "ttrov": "Fagep",
+  "ttnev": "Fapari gépek"
+ },
+ {
+  "ttrov": "Fsz",
+  "ttnev": "Fejlődéslélektan és szocializáció"
+ },
+ {
+  "ttrov": "Fef",
+  "ttnev": "Fenntartás és felújítás"
+ },
+ {
+  "ttrov": "fefetech",
+  "ttnev": "Fenntartás és felújítási tech."
+ },
+ {
+  "ttrov": "Fft",
+  "ttnev": "Fenntartásépítési és felújítási technológiák"
+ },
+ {
+  "ttrov": "Fi",
+  "ttnev": "Fizika"
+ },
+ {
+  "ttrov": "Ff",
+  "ttnev": "Fizikális felkészítés"
+ },
+ {
+  "ttrov": "Fai",
+  "ttnev": "Fodrász anyagismeret"
+ },
+ {
+  "ttrov": "FoGy",
+  "ttnev": "Fodrász gyakorlat"
+ },
+ {
+  "ttrov": "Forajzvizkul",
+  "ttnev": "Fodrász rajz és vizuális kultúra"
+ },
+ {
+  "ttrov": "Fszagy",
+  "ttnev": "Fodrász szakmai alapozó gyakorlat"
+ },
+ {
+  "ttrov": "Foszi",
+  "ttnev": "Fodrász szakmai ismeretek"
+ },
+ {
+  "ttrov": ".Foszi",
+  "ttnev": "Fodrász szakmai ismeretek (egy)"
+ },
+ {
+  "ttrov": "Fo",
+  "ttnev": "Földünk és környezetünk "
+ },
+ {
+  "ttrov": "Fo_v",
+  "ttnev": "Földünk és környezetünk választott"
+ },
+ {
+  "ttrov": "Fr",
+  "ttnev": "Fuvarozás és raktárlogisztika"
+ },
+ {
+  "ttrov": "Gasz",
+  "ttnev": "Gasztronómiai alapismeretek"
+ },
+ {
+  "ttrov": "Gazdi",
+  "ttnev": "Gazdálkodási ismeretek"
+ },
+ {
+  "ttrov": "Gi",
+  "ttnev": "Gazdálkodási ismeretek"
+ },
+ {
+  "ttrov": "Gai",
+  "ttnev": "Gazdasági alapismeretek"
+ },
+ {
+  "ttrov": "Gko",
+  "ttnev": "Gazdasági környezetünk"
+ },
+ {
+  "ttrov": "Gmai",
+  "ttnev": "Gazdasági- és munkajogi alapismeretek"
+ },
+ {
+  "ttrov": "Gmi",
+  "ttnev": "Gazdasági, munkajogi ismeretek"
+ },
+ {
+  "ttrov": "Gevi",
+  "ttnev": "Gazdsági és vállalkozási ismeretk"
+ },
+ {
+  "ttrov": "Geomm",
+  "ttnev": "Geometriai mérések"
+ },
+ {
+  "ttrov": "Gszagy",
+  "ttnev": "Gépészeti szakmai alapozó gyakorlat"
+ },
+ {
+  "ttrov": "Gforg",
+  "ttnev": "Gépi forgácsolás"
+ },
+ {
+  "ttrov": "Gtech",
+  "ttnev": "Gépi technológiák"
+ },
+ {
+  "ttrov": "Gepi",
+  "ttnev": "Gépírás, szövegszerkesztés"
+ },
+ {
+  "ttrov": "Gepjdiag",
+  "ttnev": "Gépjármű diagnosztika"
+ },
+ {
+  "ttrov": "Geszt",
+  "ttnev": "Gépjármű-szerkezettan"
+ },
+ {
+  "ttrov": "Gev",
+  "ttnev": "Gépjármű-villamosságtan"
+ },
+ {
+  "ttrov": "G",
+  "ttnev": "Géptan"
+ },
+ {
+  "ttrov": "Gt",
+  "ttnev": "Gondozástan"
+ },
+ {
+  "ttrov": "Gyak",
+  "ttnev": "Gyakorlati oktatás"
+ },
+ {
+  "ttrov": "GyarBefDok",
+  "ttnev": "Gyártás befejezés, dokumentálás"
+ },
+ {
+  "ttrov": "Gyeba",
+  "ttnev": "Gyártás előkészítés- befejezés alapmérés"
+ },
+ {
+  "ttrov": "Gea",
+  "ttnev": "Gyártás és anyagismeret"
+ },
+ {
+  "ttrov": "Ik",
+  "ttnev": "Információkezelés"
+ },
+ {
+  "ttrov": "Inf",
+  "ttnev": "Informatika"
+ },
+ {
+  "ttrov": "Inf2",
+  "ttnev": "Informatika II"
+ },
+ {
+  "ttrov": "Inf_v",
+  "ttnev": "Informatika választott"
+ },
+ {
+  "ttrov": "Infé",
+  "ttnev": "Informatika választott érettségi tantárgy"
+ },
+ {
+  "ttrov": "Iag",
+  "ttnev": "Informatikai alaptev, gyak."
+ },
+ {
+  "ttrov": "Irtech",
+  "ttnev": "Irányítástechnika"
+ },
+ {
+  "ttrov": "Italism",
+  "ttnev": "Ital ismeret"
+ },
+ {
+  "ttrov": "Jvism",
+  "ttnev": "Jogi és vállalkozási ismeretek"
+ },
+ {
+  "ttrov": "Joalk",
+  "ttnev": "Jogszabályok alkalmazás I-II."
+ },
+ {
+  "ttrov": "Ke",
+  "ttnev": "Kémia"
+ },
+ {
+  "ttrov": "Kfod",
+  "ttnev": "Kémia (fodrász)"
+ },
+ {
+  "ttrov": "Ke_v",
+  "ttnev": "Kémia választott"
+ },
+ {
+  "ttrov": "Kai",
+  "ttnev": "Kereskedelem általános ismeretei"
+ },
+ {
+  "ttrov": "Ksz",
+  "ttnev": "Kereskedelem szervezés"
+ },
+ {
+  "ttrov": "Keszagy",
+  "ttnev": "Kereskedelmi szakmai alapozó gyakorlat"
+ },
+ {
+  "ttrov": "Kvg",
+  "ttnev": "Kereskedelmi vállalatok gazdálkodása"
+ },
+ {
+  "ttrov": "Kom",
+  "ttnev": "Kommunikáció"
+ },
+ {
+  "ttrov": "Kommalt",
+  "ttnev": "Kommunikáció ált."
+ },
+ {
+  "ttrov": "KaA",
+  "ttnev": "Kommunikáció idegen nyelven (Angol)"
+ },
+ {
+  "ttrov": "KoN",
+  "ttnev": "Kommunikáció idegen nyelven (Német)"
+ },
+ {
+  "ttrov": "Kgy",
+  "ttnev": "Kommunikációs gyakorlat"
+ },
+ {
+  "ttrov": "Koai",
+  "ttnev": "Kozmetikus anyagismeret"
+ },
+ {
+  "ttrov": ".KoGY",
+  "ttnev": "Kozmetikus laboratóriumi gyakorlat (egy)"
+ },
+ {
+  "ttrov": "Kosziok",
+  "ttnev": "Kozmetikus szakmai ismeret"
+ },
+ {
+  "ttrov": "Koszik",
+  "ttnev": "Kozmetikus szakmai ismeret kozmetikusi"
+ },
+ {
+  "ttrov": "Koszio",
+  "ttnev": "Kozmetikus szakmai ismeret orvosi"
+ },
+ {
+  "ttrov": "Kv",
+  "ttnev": "Környezetvédelem"
+ },
+ {
+  "ttrov": ".Kv",
+  "ttnev": "Környezetvédelem (egy)"
+ },
+ {
+  "ttrov": "Kg",
+  "ttnev": "Közgazdaságtan"
+ },
+ {
+  "ttrov": "Kf",
+  "ttnev": "Közlekedési földrajz"
+ },
+ {
+  "ttrov": "Kinf",
+  "ttnev": "Közlekedési informatika és számtech gyakorlat"
+ },
+ {
+  "ttrov": "Ki",
+  "ttnev": "Közlekedési ismeretek"
+ },
+ {
+  "ttrov": "Kszgy",
+  "ttnev": "Kreatív színházi gyakorlat"
+ },
+ {
+  "ttrov": "Kki",
+  "ttnev": "Külkereskedelmi ismeretek"
+ },
+ {
+  "ttrov": ";kgyak",
+  "ttnev": "külső gyak"
+ },
+ {
+  "ttrov": ";kulgyak",
+  "ttnev": "Külső gyakorlat"
+ },
+ {
+  "ttrov": "Loha",
+  "ttnev": "Lóhasználat"
+ },
+ {
+  "ttrov": "Lote",
+  "ttnev": "Lótenyésztés"
+ },
+ {
+  "ttrov": "Loeg",
+  "ttnev": "Lovak egészségvédelme"
+ },
+ {
+  "ttrov": "I",
+  "ttnev": "Magyar irodalom"
+ },
+ {
+  "ttrov": "Ny",
+  "ttnev": "Magyar nyelv"
+ },
+ {
+  "ttrov": "Magy",
+  "ttnev": "Magyar nyelv és irodalom"
+ },
+ {
+  "ttrov": "Mar",
+  "ttnev": "Marketing"
+ },
+ {
+  "ttrov": "Mai",
+  "ttnev": "Marketing alapismeretek"
+ },
+ {
+  "ttrov": "Maralapism",
+  "ttnev": "Marketing alapismeretek"
+ },
+ {
+  "ttrov": "Mk",
+  "ttnev": "Marketing kommunikáció"
+ },
+ {
+  "ttrov": "Makovallgy",
+  "ttnev": "Marketing, kommunikáció és vállalkozási gyakorlat"
+ },
+ {
+  "ttrov": "Mat",
+  "ttnev": "Matematika"
+ },
+ {
+  "ttrov": "Mech",
+  "ttnev": "Mechanika"
+ },
+ {
+  "ttrov": "Melviz",
+  "ttnev": "Melegvíz ellőállítás"
+ },
+ {
+  "ttrov": "Me",
+  "ttnev": "Mentálhigiéné"
+ },
+ {
+  "ttrov": "Meany",
+  "ttnev": "Mérések, anyagok"
+ },
+ {
+  "ttrov": "Mt",
+  "ttnev": "Méréstechnika"
+ },
+ {
+  "ttrov": "Mi",
+  "ttnev": "Mindennapi ismeretek"
+ },
+ {
+  "ttrov": "Mhae",
+  "ttnev": "Minőségbiztosítás higénia az élelmiszeriparban"
+ },
+ {
+  "ttrov": "Mkv",
+  "ttnev": "Munka- és környezetvédelem"
+ },
+ {
+  "ttrov": "mkv_sz",
+  "ttnev": "Munka- és környezetvédelem (szakmai)"
+ },
+ {
+  "ttrov": "Mbtkved",
+  "ttnev": "Munka-, baleset-, tűz- és környezetvédelem"
+ },
+ {
+  "ttrov": "Mke_ved",
+  "ttnev": "Munka-, környezet- és egészségvédelem"
+ },
+ {
+  "ttrov": "Mtkv",
+  "ttnev": "Munka-, tűz és környezetvédelem"
+ },
+ {
+  "ttrov": "Munkszerv",
+  "ttnev": "Munkaszervezés (Vállalkozási ism.)"
+ },
+ {
+  "ttrov": "Mv",
+  "ttnev": "Munkavédelem"
+ },
+ {
+  "ttrov": ".Mv",
+  "ttnev": "Munkavédelem (egy)"
+ },
+ {
+  "ttrov": "Muemlv",
+  "ttnev": "Műemlékvédelem"
+ },
+ {
+  "ttrov": "Mabr",
+  "ttnev": "Műszaki ábrázolás"
+ },
+ {
+  "ttrov": "Mu",
+  "ttnev": "Műszaki ábrázolás alapjai (fég)"
+ },
+ {
+  "ttrov": "Mua",
+  "ttnev": "Műszaki alapismeretek"
+ },
+ {
+  "ttrov": "Muai",
+  "ttnev": "Műszaki áruismeret"
+ },
+ {
+  "ttrov": "Mudok",
+  "ttnev": "Műszaki dokumentációk"
+ },
+ {
+  "ttrov": "Muea",
+  "ttnev": "Műszaki és építészeti alapismeretek"
+ },
+ {
+  "ttrov": "M_inf",
+  "ttnev": "Műszaki informatika"
+ },
+ {
+  "ttrov": "Muism",
+  "ttnev": "Műszaki ismeretek"
+ },
+ {
+  "ttrov": "Mum",
+  "ttnev": "Műszaki mérések"
+ },
+ {
+  "ttrov": "Mur",
+  "ttnev": "Műszaki rajz"
+ },
+ {
+  "ttrov": "Mipmt",
+  "ttnev": "Művészet és iparművészet története"
+ },
+ {
+  "ttrov": "N",
+  "ttnev": "Német nyelv"
+ },
+ {
+  "ttrov": "Nusz",
+  "ttnev": "Nemzetközi ügyletek szervezése"
+ },
+ {
+  "ttrov": "Neprajz",
+  "ttnev": "Néprajz"
+ },
+ {
+  "ttrov": "Of",
+  "ttnev": "Osztályfőnöki"
+ },
+ {
+  "ttrov": "Oti",
+  "ttnev": "Ön- és társismeret"
+ },
+ {
+  "ttrov": "Oai",
+  "ttnev": "Önvédelmi alapismeret"
+ },
+ {
+  "ttrov": "Pv",
+  "ttnev": "Pályák világa"
+ },
+ {
+  "ttrov": "Pv_d",
+  "ttnev": "Pályák világa (drámaforgó)"
+ },
+ {
+  "ttrov": "Pv_k",
+  "ttnev": "Pályák világa (kerforgó)"
+ },
+ {
+  "ttrov": "Pv_r",
+  "ttnev": "Pályák világa (rendforgó)"
+ },
+ {
+  "ttrov": "Pv_sze",
+  "ttnev": "Pályák világa (szépforgó)"
+ },
+ {
+  "ttrov": "Pv_szo",
+  "ttnev": "Pályák világa (szocforgó)"
+ },
+ {
+  "ttrov": "Pv_v",
+  "ttnev": "Pályák világa (vendforgó)"
+ },
+ {
+  "ttrov": "Pv_e",
+  "ttnev": "Pályák világa(eüforgó)"
+ },
+ {
+  "ttrov": "Pv_m",
+  "ttnev": "Pályák világa(műszforgó)"
+ },
+ {
+  "ttrov": "Po",
+  "ttnev": "Pályaorientáció"
+ },
+ {
+  "ttrov": "Pt",
+  "ttnev": "Pék technológia"
+ },
+ {
+  "ttrov": "PNYR",
+  "ttnev": "Pénzforgalmi és nyilvántartási rendszerek"
+ },
+ {
+  "ttrov": "Pkgy",
+  "ttnev": "Pénztárgép kezelése gyakorlat"
+ },
+ {
+  "ttrov": "Pi",
+  "ttnev": "Piackutatás"
+ },
+ {
+  "ttrov": "Pincism",
+  "ttnev": "Pincér ismeretek"
+ },
+ {
+  "ttrov": "Pszagy",
+  "ttnev": "Pincér szakmai alapozó gyakorlat"
+ },
+ {
+  "ttrov": "Pro",
+  "ttnev": "Projekt"
+ },
+ {
+  "ttrov": "Pszi",
+  "ttnev": "Pszichológiai alapismeretek"
+ },
+ {
+  "ttrov": "Ra",
+  "ttnev": "Rajz és vizuális kultúra"
+ },
+ {
+  "ttrov": "Rpv",
+  "ttnev": "Rendészeti pályák világa"
+ },
+ {
+  "ttrov": "Rany",
+  "ttnev": "Ruhaipari anyag- és áruismeret"
+ },
+ {
+  "ttrov": "Rgept",
+  "ttnev": "Ruhaipari géptan"
+ },
+ {
+  "ttrov": "Rtech",
+  "ttnev": "Ruhaipari technológia"
+ },
+ {
+  "ttrov": "Ruai",
+  "ttnev": "Ruházati árúismeret"
+ },
+ {
+  "ttrov": "Rtai",
+  "ttnev": "Ruházati termékek áruismerete I."
+ },
+ {
+  "ttrov": "Sti",
+  "ttnev": "Speciális társadalomismeret"
+ },
+ {
+  "ttrov": "Szaszr",
+  "ttnev": "Szabás-szakrajz"
+ },
+ {
+  "ttrov": "Szalapi",
+  "ttnev": "Szakmai alapismeret"
+ },
+ {
+  "ttrov": "Szakai",
+  "ttnev": "Szakmai alapismeretek"
+ },
+ {
+  "ttrov": "Sz.elm.",
+  "ttnev": "Szakmai elmélet"
+ },
+ {
+  "ttrov": "Szeszt",
+  "ttnev": "Szakmai esztétika"
+ },
+ {
+  "ttrov": "Szeszt_ra",
+  "ttnev": "Szakmai esztétika (Rajz)"
+ },
+ {
+  "ttrov": ";szgyakok",
+  "ttnev": "Szakmai gyakorlatok"
+ },
+ {
+  "ttrov": "A_sz",
+  "ttnev": "Szakmai idegennyelv (Angol)"
+ },
+ {
+  "ttrov": "N_sz",
+  "ttnev": "Szakmai idegennyelv (Német)"
+ },
+ {
+  "ttrov": "SzInfo",
+  "ttnev": "Szakmai Informatika"
+ },
+ {
+  "ttrov": "Szik",
+  "ttnev": "Szakmai ismeret"
+ },
+ {
+  "ttrov": "Szism I",
+  "ttnev": "Szakmai ismeret I."
+ },
+ {
+  "ttrov": "Szism II",
+  "ttnev": "Szakmai ismeret II."
+ },
+ {
+  "ttrov": "Szi",
+  "ttnev": "Szakmai ismeretek"
+ },
+ {
+  "ttrov": "Szi1",
+  "ttnev": "Szakmai ismeretek I."
+ },
+ {
+  "ttrov": "Szkom",
+  "ttnev": "Szakmai kommunikáció"
+ },
+ {
+  "ttrov": "Szkm",
+  "ttnev": "Szakmai kommunikáció és mentálhigiéné"
+ },
+ {
+  "ttrov": "Szsz",
+  "ttnev": "Szakmai számítás"
+ },
+ {
+  "ttrov": "Szsz.",
+  "ttnev": "Szakmai számítás"
+ },
+ {
+  "ttrov": "Szsz..",
+  "ttnev": "Szakmai számítások"
+ },
+ {
+  "ttrov": "Szakra",
+  "ttnev": "Szakrajz"
+ },
+ {
+  "ttrov": "Szakra2",
+  "ttnev": "Szakrajz II"
+ },
+ {
+  "ttrov": "Szai",
+  "ttnev": "Szállodai ismeretek"
+ },
+ {
+  "ttrov": "Sztech",
+  "ttnev": "Számítástechnika"
+ },
+ {
+  "ttrov": "Szef",
+  "ttnev": "Személyiségfejlesztés"
+ },
+ {
+  "ttrov": "Szelvez",
+  "ttnev": "Szennyvíz elvezetés"
+ },
+ {
+  "ttrov": "Szh",
+  "ttnev": "Szépítészet és higiénia"
+ },
+ {
+  "ttrov": "SzerkMod",
+  "ttnev": "Szerkesztés, modellezés"
+ },
+ {
+  "ttrov": "Szmta",
+  "ttnev": "Szobafestő-mázoló és tapétázó anyagismeret"
+ },
+ {
+  "ttrov": "Fszi",
+  "ttnev": "Szobafestő-mázoló és tapétázó szakmai ismeretek"
+ },
+ {
+  "ttrov": "Szszr",
+  "ttnev": "Szobafestő-mázoló és tapétázó szakrajz"
+ },
+ {
+  "ttrov": "Szp",
+  "ttnev": "Szociálpszichológia"
+ },
+ {
+  "ttrov": "Tkt",
+  "ttnev": "Takarmányozástan"
+ },
+ {
+  "ttrov": "Tgy",
+  "ttnev": "Tanirodai gyakorlat"
+ },
+ {
+  "ttrov": "Tm",
+  "ttnev": "Tanulásmódszertan"
+ },
+ {
+  "ttrov": "Tet",
+  "ttnev": "Tárgyalási és értékesítési technika"
+ },
+ {
+  "ttrov": "Ti",
+  "ttnev": "Társadalmi ismeretek"
+ },
+ {
+  "ttrov": "Tie",
+  "ttnev": "Társadalomismeret és etika"
+ },
+ {
+  "ttrov": "Tisz",
+  "ttnev": "Társadalomismeret és szociálpolitika"
+ },
+ {
+  "ttrov": "Te",
+  "ttnev": "Testnevelés és sport"
+ },
+ {
+  "ttrov": "Te_v",
+  "ttnev": "Testnevelés és sport választott"
+ },
+ {
+  "ttrov": "Tesé",
+  "ttnev": "Testnevelés választott érettségi tantárgy"
+ },
+ {
+  "ttrov": "To",
+  "ttnev": "Történelem és állampolgári ismeretek"
+ },
+ {
+  "ttrov": "Tor",
+  "ttnev": "Történelem és társadalomismeret"
+ },
+ {
+  "ttrov": "Tuzmunkaved",
+  "ttnev": "Tűz- és munkavédelem"
+ },
+ {
+  "ttrov": "Tuzrb",
+  "ttnev": "Tűzvédelmi rendszerek, berendezések"
+ },
+ {
+  "ttrov": "Uep",
+  "ttnev": "Üzleti etika és protokoll"
+ },
+ {
+  "ttrov": "Uk",
+  "ttnev": "Üzleti kommunikáció"
+ },
+ {
+  "ttrov": "Ul",
+  "ttnev": "Üzleti lélektan"
+ },
+ {
+  "ttrov": "Ulev",
+  "ttnev": "Üzleti levelezés"
+ },
+ {
+  "ttrov": "Ust",
+  "ttnev": "Üzleti statisztika"
+ },
+ {
+  "ttrov": "Uv",
+  "ttnev": "Üzleti vállalkozások"
+ },
+ {
+  "ttrov": "Vgi",
+  "ttnev": "Vállalkozás és gazdasági ismeretek"
+ },
+ {
+  "ttrov": ".Vgi",
+  "ttnev": "Vállalkozás és gazdasági ismeretek (egy)"
+ },
+ {
+  "ttrov": "Vai",
+  "ttnev": "Vállalkozási alapismeretek"
+ },
+ {
+  "ttrov": "Vji",
+  "ttnev": "Vállalkozási és jogi ismeretek"
+ },
+ {
+  "ttrov": "Vallism",
+  "ttnev": "Vállalkozási ismeret"
+ },
+ {
+  "ttrov": "Valli",
+  "ttnev": "Vállalkozási ismeretek"
+ },
+ {
+  "ttrov": "Vi",
+  "ttnev": "Vállalkozási ismeretek"
+ },
+ {
+  "ttrov": "Verm",
+  "ttnev": "Vállalkozások ellenőrzési rendszerei, módszere"
+ },
+ {
+  "ttrov": "Vikr",
+  "ttnev": "Vállalkozások információs és kommunikációs rendszere"
+ },
+ {
+  "ttrov": "Vsza",
+  "ttnev": "Vállalkozások számviteli alapjai"
+ },
+ {
+  "ttrov": "Vengazvallis",
+  "ttnev": "Vend.gazd.váll.ism."
+ },
+ {
+  "ttrov": "Veai",
+  "ttnev": "Vendéglátás általános ismeretei"
+ },
+ {
+  "ttrov": "Vti",
+  "ttnev": "Vendéglátó és turizmus ismeretek"
+ },
+ {
+  "ttrov": "Vendgazdiism",
+  "ttnev": "Vendéglátó gazdasági ismeretek"
+ },
+ {
+  "ttrov": "Vgy",
+  "ttnev": "Vendéglátó gyakorlat"
+ },
+ {
+  "ttrov": "Veszagy",
+  "ttnev": "Vendéglátóipari szakmai alapozó gyakorlat"
+ },
+ {
+  "ttrov": "VillBiztTech",
+  "ttnev": "Villamos biztonság technika"
+ },
+ {
+  "ttrov": "VillDok",
+  "ttnev": "Villamos dokumentáció"
+ },
+ {
+  "ttrov": "Vgbkadiag",
+  "ttnev": "Villamos gépek, berendezés, készülékek, áramkörök, diagnosztika"
+ },
+ {
+  "ttrov": "VillHal",
+  "ttnev": "Villamos hálozatok"
+ },
+ {
+  "ttrov": "VillKeszBer",
+  "ttnev": "Villamos készülék és berendezés"
+ },
+ {
+  "ttrov": "Villszra",
+  "ttnev": "Villamos szakrajz alapismeretek"
+ },
+ {
+  "ttrov": "Villszagy",
+  "ttnev": "Villamosipari szakmai alapozó gyakorlat"
+ },
+ {
+  "ttrov": "Villa",
+  "ttnev": "Villamosságtani alapismeretek"
+ },
+ {
+  "ttrov": "Vizell",
+  "ttnev": "Vízellátás"
+ }
+]
+}
