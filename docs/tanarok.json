@@ -1,1021 +1,965 @@
 {
-"tanarok":[
- {
-  "ok": ".AZ",
-  "tit": " ",
-  "familyname": "Albert",
-  "firstname": "Zoltán",
-  "status": 6,
-  "beoszt": "tanár"
- },
- {
-  "ok": ":AN",
-  "tit": " ",
-  "familyname": "Asbóth",
-  "firstname": "Norbert",
-  "status": 6,
-  "beoszt": "tanár"
- },
- {
-  "ok": ":BLne",
-  "tit": " ",
-  "familyname": "Baár",
-  "firstname": "Lászlóné",
-  "status": 6,
-  "beoszt": "tanár"
- },
- {
-  "ok": ".BI",
-  "tit": " ",
-  "familyname": "Balázsfi",
-  "firstname": "István",
-  "status": 6,
-  "beoszt": "gyakorlatioktatás-vezető helyettes"
- },
- {
-  "ok": ":BA",
-  "tit": " ",
-  "familyname": "Berczik",
-  "firstname": "Andrea",
-  "status": 14,
-  "beoszt": "tanár"
- },
- {
-  "ok": ".BG",
-  "familyname": "Bezdány",
-  "firstname": "Géza",
-  "status": 262,
-  "beoszt": "szakoktató"
- },
- {
-  "ok": ":HBA",
-  "tit": " ",
-  "familyname": "Hajduné Bihari",
-  "firstname": "Ágnes",
-  "status": 6,
-  "beoszt": "tanár"
- },
- {
-  "ok": ":TBZS",
-  "tit": " ",
-  "familyname": "Tóthné Bíró",
-  "firstname": "Zsuzsanna",
-  "status": 262,
-  "beoszt": "tanár"
- },
- {
-  "ok": ".BF",
-  "familyname": "Bodó",
-  "firstname": "Ferenc",
-  "status": 6,
-  "beoszt": "Tanár"
- },
- {
-  "ok": ":Bu",
-  "tit": " ",
-  "familyname": "Burkovics",
-  "firstname": "Ferenc",
-  "status": 262,
-  "beoszt": "tanár"
- },
- {
-  "ok": ":CsG",
-  "tit": " ",
-  "familyname": "Csányi",
-  "firstname": "Gizella",
-  "status": 6,
-  "beoszt": "tanár"
- },
- {
-  "ok": ":JCsE",
-  "tit": " ",
-  "familyname": "Jovánné Császár",
-  "firstname": "Edit",
-  "status": 6,
-  "beoszt": "tanár"
- },
- {
-  "ok": ":CsL",
-  "tit": " ",
-  "familyname": "Cseh",
-  "firstname": "László",
-  "status": 262,
-  "beoszt": "tanár"
- },
- {
-  "ok": ".CsF",
-  "tit": " ",
-  "familyname": "Cseh",
-  "firstname": "Ferenc",
-  "status": 6,
-  "beoszt": "tanár"
- },
- {
-  "ok": ":CsT",
-  "tit": " ",
-  "familyname": "Csőke",
-  "firstname": "Tamás",
-  "status": 6,
-  "beoszt": "szakoktató"
- },
- {
-  "ok": ".CsA",
-  "familyname": "Csorba",
-  "firstname": "Attila",
-  "status": 6,
-  "beoszt": "tanár"
- },
- {
-  "ok": ".CsNE",
-  "tit": "dr.",
-  "familyname": "Csotó Nagy",
-  "firstname": "Erzsébet",
-  "status": 14,
-  "beoszt": "tanár"
- },
- {
-  "ok": ".DT",
-  "familyname": "Dani",
-  "firstname": "Tibor",
-  "status": 262,
-  "beoszt": "tanár"
- },
- {
-  "ok": ".RDR",
-  "tit": "dr.",
-  "familyname": "Darvasi ",
-  "firstname": "Richárd",
-  "status": 6,
-  "beoszt": "óraadó"
- },
- {
-  "ok": ".DA",
-  "tit": " ",
-  "familyname": "Dávid",
-  "firstname": "Attila",
-  "status": 6,
-  "beoszt": "szakoktató"
- },
- {
-  "ok": ":SDZs",
-  "tit": " ",
-  "familyname": "Sebőkné Dobos",
-  "firstname": "Zsuzsanna",
-  "status": 6,
-  "beoszt": "tanár"
- },
- {
-  "ok": ".SET",
-  "tit": " ",
-  "familyname": "Sáróné Erdei",
-  "firstname": "Tünde",
-  "status": 6,
-  "beoszt": "gyermek- és ifjúságvédelmi felelős"
- },
- {
-  "ok": ".FZs",
-  "tit": "dr.",
-  "familyname": "Tóthné Farkas",
-  "firstname": "Zsuzsanna",
-  "status": 6,
-  "beoszt": "tanár"
- },
- {
-  "ok": ".FK",
-  "familyname": "Fejes",
-  "firstname": "Katalin Lilla",
-  "status": 6,
-  "beoszt": "tanár"
- },
- {
-  "ok": ":FB",
-  "tit": " ",
-  "familyname": "Feketű",
-  "firstname": "Béla",
-  "status": 494,
-  "beoszt": "igazgató"
- },
- {
-  "ok": ".FE",
-  "familyname": "Figura",
-  "firstname": "Eszter",
-  "status": 6,
-  "beoszt": "tanár"
- },
- {
-  "ok": ":Bne",
-  "tit": " ",
-  "familyname": "Bálintné Gál",
-  "firstname": "Renáta",
-  "status": 6,
-  "beoszt": "tanár"
- },
- {
-  "ok": ".KGK",
-  "familyname": "Kálmánné Gát",
-  "firstname": "Klára",
-  "status": 30,
-  "beoszt": "tanár"
- },
- {
-  "ok": ".GI",
-  "familyname": "Gera",
-  "firstname": "István",
-  "status": 262,
-  "beoszt": "szakoktató"
- },
- {
-  "ok": ".BM",
-  "familyname": "Gergelyné Bodó",
-  "firstname": "Mária",
-  "status": 262,
-  "beoszt": "magyar-történelem szakos tanár"
- },
- {
-  "ok": ":GA",
-  "tit": " ",
-  "familyname": "Gnyilenko",
-  "firstname": "Anna",
-  "status": 6,
-  "beoszt": "tanár"
- },
- {
-  "ok": ":SGyT",
-  "tit": " ",
-  "familyname": "Siposné Gyarmati",
-  "firstname": "Teréz",
-  "status": 262,
-  "beoszt": "tanár"
- },
- {
-  "ok": ":HA",
-  "tit": " ",
-  "familyname": "Habók",
-  "firstname": "Anita",
-  "status": 6,
-  "beoszt": "óraadó"
- },
- {
-  "ok": ".HT",
-  "familyname": "Habók",
-  "firstname": "Tamás",
-  "status": 6,
-  "beoszt": "tanár"
- },
- {
-  "ok": ":HK",
-  "tit": "dr.",
-  "familyname": "Kertainé Hagyó",
-  "firstname": "Klára",
-  "status": 6,
-  "beoszt": "tanár"
- },
- {
-  "ok": ":HG",
-  "tit": " ",
-  "familyname": "Herczeg",
-  "firstname": "Gabriella",
-  "status": 262,
-  "beoszt": "rajz, földrajz"
- },
- {
-  "ok": ".Ho",
-  "familyname": "Hoffmann László",
-  "status": 6,
-  "beoszt": "műszaki szakoktató, gáz szerelő mester"
- },
- {
-  "ok": ".Hne",
-  "tit": "dr.",
-  "familyname": "Horváth Gyuláné",
-  "status": 262,
-  "beoszt": "tanár"
- },
- {
-  "ok": ".HK",
-  "familyname": "Huszár",
-  "firstname": "Károly",
-  "status": 270,
-  "beoszt": "tanár"
- },
- {
-  "ok": ".IK",
-  "familyname": "Izsó",
-  "firstname": "Katalin",
-  "status": 6,
-  "beoszt": "tanár"
- },
- {
-  "ok": ".JG",
-  "familyname": "Janzsó",
-  "firstname": "Gábor",
-  "status": 262,
-  "beoszt": "tanár"
- },
- {
-  "ok": ":KLE",
-  "tit": " ",
-  "familyname": "Kajáriné Lestár",
-  "firstname": "Erzsébet",
-  "status": 6,
-  "beoszt": "tanár"
- },
- {
-  "ok": ":KB",
-  "tit": " ",
-  "familyname": "Kazi",
-  "firstname": "Balázs Róbert",
-  "status": 14,
-  "beoszt": "tanár"
- },
- {
-  "ok": ":TKG",
-  "familyname": "Tolnainé Kern",
-  "firstname": "Gabriella",
-  "status": 6,
-  "beoszt": "tanár"
- },
- {
-  "ok": ":KE",
-  "tit": " ",
-  "familyname": "Keszei",
-  "firstname": "Edit",
-  "status": 6,
-  "beoszt": "tanár"
- },
- {
-  "ok": ":Ne",
-  "tit": " ",
-  "familyname": "Neparáczkiné Kiss",
-  "firstname": "Beatrix",
-  "status": 262,
-  "beoszt": "tanár"
- },
- {
-  "ok": ".KA",
-  "familyname": "Kiss",
-  "firstname": "Antal",
-  "status": 262,
-  "beoszt": "tanár"
- },
- {
-  "ok": ".KL",
-  "tit": " ",
-  "familyname": "Kiss",
-  "firstname": "László",
-  "status": 14,
-  "beoszt": "szakoktató"
- },
- {
-  "ok": ".KGyO",
-  "familyname": "Kissné Györki",
-  "firstname": "Orsolya",
-  "status": 6,
-  "beoszt": "tanár"
- },
- {
-  "ok": ".RKZ",
-  "tit": " ",
-  "familyname": "Kis",
-  "firstname": "Zoltán",
-  "status": 6,
-  "beoszt": "óraadó"
- },
- {
-  "ok": ".KB",
-  "familyname": "Klucsai",
-  "firstname": "Barna",
-  "status": 6,
-  "beoszt": "tanár"
- },
- {
-  "ok": ":KoJo",
-  "tit": "dr.",
-  "familyname": "Körmendi",
-  "firstname": "József",
-  "status": 6,
-  "beoszt": "tanár"
- },
- {
-  "ok": ":KKA",
-  "tit": " ",
-  "familyname": "Kakusziné Körtvélyesi",
-  "firstname": "Anikó",
-  "status": 6,
-  "beoszt": "tanár"
- },
- {
-  "ok": ":KA",
-  "tit": " ",
-  "familyname": "Kovács",
-  "firstname": "Attila",
-  "status": 6,
-  "beoszt": "tanár"
- },
- {
-  "ok": ":KJ",
-  "tit": " ",
-  "familyname": "Kovács",
-  "firstname": "János",
-  "status": 6,
-  "beoszt": "tanár"
- },
- {
-  "ok": ":KI",
-  "tit": " ",
-  "familyname": "Kovács",
-  "firstname": "Imre",
-  "status": 6,
-  "beoszt": "tanár"
- },
- {
-  "ok": ".KE",
-  "familyname": "Kosara",
-  "firstname": "Erika",
-  "status": 6,
-  "beoszt": "tanár"
- },
- {
-  "ok": ":GLK",
-  "tit": " ",
-  "familyname": "Geráné Lippay ",
-  "firstname": "Klára",
-  "status": 6,
-  "beoszt": "tanár"
- },
- {
-  "ok": ":LJne",
-  "tit": " ",
-  "familyname": "Lőrincz",
-  "firstname": "Jánosné",
-  "status": 262,
-  "beoszt": "gyakorlati oktatásvezető helyettes"
- },
- {
-  "ok": ":LO",
-  "tit": " ",
-  "familyname": "Luczay ",
-  "firstname": "Orsolya",
-  "status": 262,
-  "beoszt": "tanár"
- },
- {
-  "ok": ":MSZ",
-  "tit": " ",
-  "familyname": "Bönditzné Magyar",
-  "firstname": "Szilvia",
-  "status": 6,
-  "beoszt": "tanár, könyvtáros"
- },
- {
-  "ok": ":MZ",
-  "tit": " ",
-  "familyname": "Martincsek",
-  "firstname": "Zoltán",
-  "status": 6,
-  "beoszt": "tanár"
- },
- {
-  "ok": ".MV",
-  "familyname": "Marton",
-  "firstname": "Viktor",
-  "status": 6,
-  "beoszt": "tanár"
- },
- {
-  "ok": ":MM",
-  "tit": " ",
-  "familyname": "Máté",
-  "firstname": "Mária",
-  "status": 2334,
-  "beoszt": "tanár"
- },
- {
-  "ok": ":MJ",
-  "tit": " ",
-  "familyname": "Meszlényi",
-  "firstname": "János",
-  "status": 6,
-  "beoszt": "tanár"
- },
- {
-  "ok": ".Mi",
-  "familyname": "Mihók",
-  "firstname": "József",
-  "status": 262,
-  "beoszt": "tanár"
- },
- {
-  "ok": ":PME",
-  "tit": " ",
-  "familyname": "Perényiné Miskolczi",
-  "firstname": "Erzsébet",
-  "status": 262,
-  "beoszt": "tanár"
- },
- {
-  "ok": ".MJ",
-  "familyname": "Miskolczi",
-  "firstname": "János",
-  "status": 942,
-  "beoszt": "nevelési igazgatóhelyettes"
- },
- {
-  "ok": ":MI",
-  "tit": "dr.",
-  "familyname": "Molnár",
-  "firstname": "István",
-  "status": 6,
-  "beoszt": "tanár"
- },
- {
-  "ok": ":MTi",
-  "tit": " ",
-  "familyname": "Molnár",
-  "firstname": "Tibor",
-  "status": 510,
-  "beoszt": "műszaki igazgatóhelyettes"
- },
- {
-  "ok": ":Mu",
-  "tit": " ",
-  "familyname": "Müller",
-  "firstname": "Magdolna",
-  "status": 6,
-  "beoszt": "gyógypedagógus"
- },
- {
-  "ok": ".NJ",
-  "tit": " ",
-  "familyname": "Neller",
-  "firstname": "József",
-  "status": 6,
-  "beoszt": "óraadó"
- },
- {
-  "ok": ":NM",
-  "tit": " ",
-  "familyname": "Németh",
-  "firstname": "Magdolna",
-  "status": 6,
-  "beoszt": "tanár"
- },
- {
-  "ok": ":NyM",
-  "tit": " ",
-  "familyname": "Nyári",
-  "firstname": "Mariann",
-  "status": 6,
-  "beoszt": "tanár"
- },
- {
-  "ok": ":OE",
-  "tit": " ",
-  "familyname": "Ocsenás",
-  "firstname": "Eleonóra",
-  "status": 6
- },
- {
-  "ok": ".OH",
-  "familyname": "Oroszi",
-  "firstname": "Hedvig",
-  "status": 1054,
-  "beoszt": "minőségirányítási vezető"
- },
- {
-  "ok": ".OM",
-  "familyname": "Ország",
-  "firstname": "Márton",
-  "status": 6,
-  "beoszt": "tanár"
- },
- {
-  "ok": ":PMi",
-  "tit": " ",
-  "familyname": "Pálinkás",
-  "firstname": "Miklós",
-  "status": 6,
-  "beoszt": "tanár"
- },
- {
-  "ok": ".PFne",
-  "familyname": "Pálvölgyiné Szécsi",
-  "firstname": "Valéria",
-  "status": 6,
-  "beoszt": "tanár"
- },
- {
-  "ok": ".PI",
-  "familyname": "Papp",
-  "firstname": "Imre",
-  "status": 6,
-  "beoszt": "tanár"
- },
- {
-  "ok": ".PSz",
-  "tit": " ",
-  "familyname": "Pappné Pap",
-  "firstname": "Szilvia",
-  "status": 6
- },
- {
-  "ok": ".PaZ",
-  "familyname": "Papp",
-  "firstname": "Zoltán",
-  "status": 6
- },
- {
-  "ok": ":PA",
-  "tit": " ",
-  "familyname": "Pásztor",
-  "firstname": "Attila",
-  "status": 14,
-  "beoszt": "tanár"
- },
- {
-  "ok": ":PZ",
-  "familyname": "Pataki",
-  "firstname": "Zoltán",
-  "status": 8190,
-  "beoszt": "fejlesztési igazgatóhelyettes"
- },
- {
-  "ok": ".VPZs",
-  "familyname": "Vámos-Poljak Zsolt",
-  "status": 6,
-  "beoszt": "tanár"
- },
- {
-  "ok": ":VPne",
-  "familyname": "Vámos-Poljak Zsoltné",
-  "status": 6,
-  "beoszt": "tanár"
- },
- {
-  "ok": ".PoZ",
-  "tit": " ",
-  "familyname": "Popovics",
-  "firstname": "Zoltán",
-  "status": 6,
-  "beoszt": "tanár"
- },
- {
-  "ok": ":Po",
-  "tit": " ",
-  "familyname": "Pördi",
-  "firstname": "József",
-  "status": 262,
-  "beoszt": "tanár"
- },
- {
-  "ok": ".PTV",
-  "familyname": "Tompa",
-  "firstname": "Valéria",
-  "status": 262,
-  "beoszt": "tanár"
- },
- {
-  "ok": ":PL",
-  "tit": " ",
-  "familyname": "Pozsik",
-  "firstname": "László",
-  "status": 6,
-  "beoszt": "tanár"
- },
- {
-  "ok": ".PG",
-  "familyname": "Prihoda",
-  "firstname": "Gábor",
-  "status": 6,
-  "beoszt": "tanár"
- },
- {
-  "ok": ".RZs",
-  "familyname": "Rabi",
-  "firstname": "Zsolt",
-  "status": 6,
-  "beoszt": "tanár"
- },
- {
-  "ok": ".RL",
-  "familyname": "Rácz",
-  "firstname": "László",
-  "status": 6,
-  "beoszt": "tanár"
- },
- {
-  "ok": ":Ra",
-  "tit": " ",
-  "familyname": "Radóczi",
-  "firstname": "Tibor",
-  "status": 262,
-  "beoszt": "tanár"
- },
- {
-  "ok": ":RJ",
-  "tit": " ",
-  "familyname": "Rózsa",
-  "firstname": "János",
-  "status": 262,
-  "beoszt": "tanár"
- },
- {
-  "ok": ".SSz",
-  "familyname": "Lugosiné Schuszter",
-  "firstname": "Szilvia",
-  "status": 14,
-  "beoszt": "tanár"
- },
- {
-  "ok": ":SeGa",
-  "tit": " ",
-  "familyname": "Serege",
-  "firstname": "Gábor",
-  "status": 262,
-  "beoszt": "tanár"
- },
- {
-  "ok": ":Si",
-  "tit": "dr.",
-  "familyname": "Simoncsics Jánosné",
-  "status": 262,
-  "beoszt": "tanár, gyermek- és ifjúságvédelmi felelős"
- },
- {
-  "ok": ":KoSK",
-  "tit": " ",
-  "familyname": "Komárominé Sipos",
-  "firstname": "Katalin",
-  "status": 6,
-  "beoszt": "tanár"
- },
- {
-  "ok": ".SJ",
-  "familyname": "Solticzky",
-  "firstname": "József",
-  "status": 6,
-  "beoszt": "tanár"
- },
- {
-  "ok": ".SM",
-  "familyname": "Százné Sőrés",
-  "firstname": "Márta",
-  "status": 270,
-  "beoszt": "tanár"
- },
- {
-  "ok": ":MSM",
-  "tit": " ",
-  "familyname": "Máhigné Stefanovits",
-  "firstname": "Márta",
-  "status": 6,
-  "beoszt": "tanár"
- },
- {
-  "ok": ".NSzK",
-  "familyname": "Németh-Szabados",
-  "firstname": "Klára",
-  "status": 14,
-  "beoszt": "tanár"
- },
- {
-  "ok": ":SzG",
-  "tit": " ",
-  "familyname": "Szabó",
-  "firstname": "Gábor",
-  "status": 510,
-  "beoszt": "általános igazgatóhelyettes"
- },
- {
-  "ok": ".RSZ",
-  "familyname": "Szabó",
-  "firstname": "Zsolt",
-  "status": 6,
-  "beoszt": "óraadó"
- },
- {
-  "ok": ".SzM",
-  "tit": " ",
-  "familyname": "Szebenyi",
-  "firstname": "Mihály",
-  "status": 6
- },
- {
-  "ok": ".SzeSz",
-  "familyname": "Szentesi ",
-  "firstname": "Szilvia",
-  "status": 6,
-  "beoszt": "tanár"
- },
- {
-  "ok": ".SzJ",
-  "familyname": "Szikora",
-  "firstname": "János",
-  "status": 2078,
-  "beoszt": "tanár"
- },
- {
-  "ok": ".MSzA",
-  "familyname": "Miskolcziné Szilágyi",
-  "firstname": "Andrea",
-  "status": 6,
-  "beoszt": "tanár"
- },
- {
-  "ok": ".SzE",
-  "familyname": "Szilágyi",
-  "firstname": "Emese",
-  "status": 262,
-  "beoszt": "tanár"
- },
- {
-  "ok": ":SzH",
-  "tit": " ",
-  "familyname": "Szöllősi",
-  "firstname": "Huba",
-  "status": 6,
-  "beoszt": "tanár"
- },
- {
-  "ok": ":Sztne",
-  "tit": " ",
-  "familyname": "Sztankovics",
-  "firstname": "Józsefné",
-  "status": 262,
-  "beoszt": "tanár"
- },
- {
-  "ok": ":TZs",
-  "tit": " ",
-  "familyname": "Tatár",
-  "firstname": "Zsuzsanna",
-  "status": 262,
-  "beoszt": "tanár"
- },
- {
-  "ok": ".TJ",
-  "familyname": "Telek",
-  "firstname": "János",
-  "status": 6,
-  "beoszt": "tanár"
- },
- {
-  "ok": ".TP",
-  "familyname": "Tolnai",
-  "firstname": "Pál",
-  "status": 6,
-  "beoszt": "tanár"
- },
- {
-  "ok": ".NT",
-  "familyname": "Németh",
-  "firstname": "Tamás",
-  "status": 8190,
-  "beoszt": "rendszerinformatikus, óraadó"
- },
- {
-  "ok": ".TM",
-  "familyname": "Törköly",
-  "firstname": "Magdolna",
-  "status": 6,
-  "beoszt": "tanár"
- },
- {
-  "ok": ":TI",
-  "tit": " ",
-  "familyname": "Tóth",
-  "firstname": "István János",
-  "status": 62,
-  "beoszt": "rendszergazda"
- },
- {
-  "ok": ":MTE",
-  "tit": " ",
-  "familyname": "Mucsiné Turu",
-  "firstname": "Erzsébet",
-  "status": 6,
-  "beoszt": "tanár"
- },
- {
-  "ok": ".UA",
-  "tit": " ",
-  "familyname": "Udvardi",
-  "firstname": "Adrienn",
-  "status": 6,
-  "beoszt": "tanár"
- },
- {
-  "ok": ":UM",
-  "tit": " ",
-  "familyname": "Urbán ",
-  "firstname": "Marianna",
-  "status": 6,
-  "beoszt": "tanár"
- },
- {
-  "ok": ":VSz",
-  "tit": " ",
-  "familyname": "Ványi",
-  "firstname": "Szilvia",
-  "status": 6,
-  "beoszt": "tanár"
- },
- {
-  "ok": ".VKE",
-  "familyname": "Váradiné",
-  "firstname": "Kása Edit",
-  "status": 6,
-  "beoszt": "tanár"
- },
- {
-  "ok": ":VT",
-  "tit": " ",
-  "familyname": "Varga",
-  "firstname": "Tamás",
-  "status": 8190,
-  "beoszt": "tanár"
- },
- {
-  "ok": ".VF",
-  "tit": " ",
-  "familyname": "Varga",
-  "firstname": "Ferenc",
-  "status": 6,
-  "beoszt": "óraadó"
- },
- {
-  "ok": ":SVI",
-  "tit": " ",
-  "familyname": "Székelyné Veres",
-  "firstname": "Ilona",
-  "status": 6,
-  "beoszt": "tanár"
- },
- {
-  "ok": ".VL",
-  "familyname": "Vér",
-  "firstname": "László",
-  "status": 6,
-  "beoszt": "tanár"
- },
- {
-  "ok": ".VeI",
-  "tit": " ",
-  "familyname": "Vetró",
-  "firstname": "István",
-  "status": 6,
-  "beoszt": "szakoktató"
- },
- {
-  "ok": ".VI",
-  "familyname": "Vidákovics",
-  "firstname": "István",
-  "status": 6,
-  "beoszt": "tanár"
- },
- {
-  "ok": ".VS",
-  "familyname": "Vilonya",
-  "firstname": "Sándor",
-  "status": 302,
-  "beoszt": "szakmai igazgatóhelyettes"
- },
- {
-  "ok": ".SzVK",
-  "tit": "dr.",
-  "familyname": "Szabóné Virág",
-  "firstname": "Katalin",
-  "status": 262,
-  "beoszt": "koordinációs igazgatóhelyettes"
- },
- {
-  "ok": ":WA",
-  "tit": " ",
-  "familyname": "Weiner",
-  "firstname": "András",
-  "status": 14,
-  "beoszt": "tanár"
- },
- {
-  "ok": ".ZR",
-  "familyname": "Zánthó",
-  "firstname": "Róbert",
-  "status": 6,
-  "beoszt": "tanár"
- },
- {
-  "ok": ".ZI",
-  "familyname": "Zatykó",
-  "firstname": "István",
-  "status": 262,
-  "beoszt": "gyakorlatioktatás-vezető"
- },
- {
-  "ok": ".ZM",
-  "familyname": "Zimmer",
-  "firstname": "Márta",
-  "status": 6,
-  "beoszt": "tanár"
- }
-]
+    "tanarok": [
+        {
+            "ok": ".AZ",
+            "tit": " ",
+            "familyname": "Albert",
+            "firstname": "Zoltán",
+            "status": 6,
+            "beoszt": "tanár"
+        },
+        {
+            "ok": ":AN",
+            "tit": " ",
+            "familyname": "Asbóth",
+            "firstname": "Norbert",
+            "status": 6,
+            "beoszt": "tanár"
+        },
+        {
+            "ok": ":BLne",
+            "tit": " ",
+            "familyname": "Baár",
+            "firstname": "Lászlóné",
+            "status": 6,
+            "beoszt": "tanár"
+        },
+        {
+            "ok": ".BI",
+            "tit": " ",
+            "familyname": "Balázsfi",
+            "firstname": "István",
+            "status": 6,
+            "beoszt": "gyakorlatioktatás-vezető helyettes"
+        },
+        {
+            "ok": ":BA",
+            "tit": " ",
+            "familyname": "Berczik",
+            "firstname": "Andrea",
+            "status": 14,
+            "beoszt": "tanár"
+        },
+        {
+            "ok": ".BG",
+            "familyname": "Bezdány",
+            "firstname": "Géza",
+            "status": 262,
+            "beoszt": "szakoktató"
+        },
+        {
+            "ok": ":HBA",
+            "tit": " ",
+            "familyname": "Hajduné Bihari",
+            "firstname": "Ágnes",
+            "status": 6,
+            "beoszt": "tanár"
+        },
+        {
+            "ok": ":TBZS",
+            "tit": " ",
+            "familyname": "Tóthné Bíró",
+            "firstname": "Zsuzsanna",
+            "status": 262,
+            "beoszt": "tanár"
+        },
+        {
+            "ok": ":Bu",
+            "tit": " ",
+            "familyname": "Burkovics",
+            "firstname": "Ferenc",
+            "status": 262,
+            "beoszt": "tanár"
+        },
+        {
+            "ok": ":CsG",
+            "tit": " ",
+            "familyname": "Csányi",
+            "firstname": "Gizella",
+            "status": 6,
+            "beoszt": "tanár"
+        },
+        {
+            "ok": ":JCsE",
+            "tit": " ",
+            "familyname": "Jovánné Császár",
+            "firstname": "Edit",
+            "status": 6,
+            "beoszt": "tanár"
+        },
+        {
+            "ok": ":CsL",
+            "tit": " ",
+            "familyname": "Cseh",
+            "firstname": "László",
+            "status": 262,
+            "beoszt": "tanár"
+        },
+        {
+            "ok": ".CsF",
+            "tit": " ",
+            "familyname": "Cseh",
+            "firstname": "Ferenc",
+            "status": 6,
+            "beoszt": "tanár"
+        },
+        {
+            "ok": ":CsT",
+            "tit": " ",
+            "familyname": "Csőke",
+            "firstname": "Tamás",
+            "status": 6,
+            "beoszt": "szakoktató"
+        },
+        {
+            "ok": ".CsA",
+            "familyname": "Csorba",
+            "firstname": "Attila",
+            "status": 6,
+            "beoszt": "tanár"
+        },
+        {
+            "ok": ".CsNE",
+            "tit": "dr.",
+            "familyname": "Csotó Nagy",
+            "firstname": "Erzsébet",
+            "status": 14,
+            "beoszt": "tanár"
+        },
+        {
+            "ok": ".DT",
+            "familyname": "Dani",
+            "firstname": "Tibor",
+            "status": 262,
+            "beoszt": "tanár"
+        },
+        {
+            "ok": ".RDR",
+            "tit": "dr.",
+            "familyname": "Darvasi ",
+            "firstname": "Richárd",
+            "status": 6,
+            "beoszt": "óraadó"
+        },
+        {
+            "ok": ".DA",
+            "tit": " ",
+            "familyname": "Dávid",
+            "firstname": "Attila",
+            "status": 6,
+            "beoszt": "szakoktató"
+        },
+        {
+            "ok": ":SDZs",
+            "tit": " ",
+            "familyname": "Sebőkné Dobos",
+            "firstname": "Zsuzsanna",
+            "status": 6,
+            "beoszt": "tanár"
+        },
+        {
+            "ok": ".SET",
+            "tit": " ",
+            "familyname": "Sáróné Erdei",
+            "firstname": "Tünde",
+            "status": 6,
+            "beoszt": "gyermek- és ifjúságvédelmi felelős"
+        },
+        {
+            "ok": ".FZs",
+            "tit": "dr.",
+            "familyname": "Tóthné Farkas",
+            "firstname": "Zsuzsanna",
+            "status": 6,
+            "beoszt": "tanár"
+        },
+        {
+            "ok": ".FK",
+            "familyname": "Fejes",
+            "firstname": "Katalin Lilla",
+            "status": 6,
+            "beoszt": "tanár"
+        },
+        {
+            "ok": ":FB",
+            "tit": " ",
+            "familyname": "Feketű",
+            "firstname": "Béla",
+            "status": 494,
+            "beoszt": "igazgató"
+        },
+        {
+            "ok": ".FE",
+            "familyname": "Figura",
+            "firstname": "Eszter",
+            "status": 6,
+            "beoszt": "tanár"
+        },
+        {
+            "ok": ":Bne",
+            "tit": " ",
+            "familyname": "Bálintné Gál",
+            "firstname": "Renáta",
+            "status": 6,
+            "beoszt": "tanár"
+        },
+        {
+            "ok": ".KGK",
+            "familyname": "Kálmánné Gát",
+            "firstname": "Klára",
+            "status": 30,
+            "beoszt": "tanár"
+        },
+        {
+            "ok": ".GI",
+            "familyname": "Gera",
+            "firstname": "István",
+            "status": 262,
+            "beoszt": "szakoktató"
+        },
+        {
+            "ok": ".BM",
+            "familyname": "Gergelyné Bodó",
+            "firstname": "Mária",
+            "status": 262,
+            "beoszt": "magyar-történelem szakos tanár"
+        },
+        {
+            "ok": ":GA",
+            "tit": " ",
+            "familyname": "Gnyilenko",
+            "firstname": "Anna",
+            "status": 6,
+            "beoszt": "tanár"
+        },
+        {
+            "ok": ":SGyT",
+            "tit": " ",
+            "familyname": "Siposné Gyarmati",
+            "firstname": "Teréz",
+            "status": 262,
+            "beoszt": "tanár"
+        },
+        {
+            "ok": ":HA",
+            "tit": " ",
+            "familyname": "Habók",
+            "firstname": "Anita",
+            "status": 6,
+            "beoszt": "óraadó"
+        },
+        {
+            "ok": ".HT",
+            "familyname": "Habók",
+            "firstname": "Tamás",
+            "status": 6,
+            "beoszt": "tanár"
+        },
+        {
+            "ok": ":HK",
+            "tit": "dr.",
+            "familyname": "Kertainé Hagyó",
+            "firstname": "Klára",
+            "status": 6,
+            "beoszt": "tanár"
+        },
+        {
+            "ok": ":HG",
+            "tit": " ",
+            "familyname": "Herczeg",
+            "firstname": "Gabriella",
+            "status": 262,
+            "beoszt": "rajz, földrajz"
+        },
+        {
+            "ok": ".Ho",
+            "familyname": "Hoffmann",
+            "firstname": " László",
+            "status": 6,
+            "beoszt": "műszaki szakoktató, gáz szerelő mester"
+        },
+        {
+            "ok": ".Hne",
+            "tit": "dr.",
+            "familyname": "Horváth Gyuláné",
+            "firstname": "",
+            "status": 262,
+            "beoszt": "tanár"
+        },
+        {
+            "ok": ".HK",
+            "familyname": "Huszár",
+            "firstname": "Károly",
+            "status": 270,
+            "beoszt": "tanár"
+        },
+        {
+            "ok": ".IK",
+            "familyname": "Izsó",
+            "firstname": "Katalin",
+            "status": 6,
+            "beoszt": "tanár"
+        },
+        {
+            "ok": ".JG",
+            "familyname": "Janzsó",
+            "firstname": "Gábor",
+            "status": 262,
+            "beoszt": "tanár"
+        },
+        {
+            "ok": ":KLE",
+            "tit": " ",
+            "familyname": "Kajáriné Lestár",
+            "firstname": "Erzsébet",
+            "status": 6,
+            "beoszt": "tanár"
+        },
+        {
+            "ok": ":KB",
+            "tit": " ",
+            "familyname": "Kazi",
+            "firstname": "Balázs Róbert",
+            "status": 14,
+            "beoszt": "tanár"
+        },
+        {
+            "ok": ":TKG",
+            "familyname": "Tolnainé Kern",
+            "firstname": "Gabriella",
+            "status": 6,
+            "beoszt": "tanár"
+        },
+        {
+            "ok": ":KE",
+            "tit": " ",
+            "familyname": "Keszei",
+            "firstname": "Edit",
+            "status": 6,
+            "beoszt": "tanár"
+        },
+        {
+            "ok": ":Ne",
+            "tit": " ",
+            "familyname": "Neparáczkiné Kiss",
+            "firstname": "Beatrix",
+            "status": 262,
+            "beoszt": "tanár"
+        },
+        {
+            "ok": ".KA",
+            "familyname": "Kiss",
+            "firstname": "Antal",
+            "status": 262,
+            "beoszt": "tanár"
+        },
+        {
+            "ok": ".KL",
+            "tit": " ",
+            "familyname": "Kiss",
+            "firstname": "László",
+            "status": 14,
+            "beoszt": "szakoktató"
+        },
+        {
+            "ok": ".KGyO",
+            "familyname": "Kissné Györki",
+            "firstname": "Orsolya",
+            "status": 6,
+            "beoszt": "tanár"
+        },
+        {
+            "ok": ".RKZ",
+            "tit": " ",
+            "familyname": "Kis",
+            "firstname": "Zoltán",
+            "status": 6,
+            "beoszt": "óraadó"
+        },
+        {
+            "ok": ".KB",
+            "familyname": "Klucsai",
+            "firstname": "Barna",
+            "status": 6,
+            "beoszt": "tanár"
+        },
+        {
+            "ok": ":KoJo",
+            "tit": "dr.",
+            "familyname": "Körmendi",
+            "firstname": "József",
+            "status": 6,
+            "beoszt": "tanár"
+        },
+        {
+            "ok": ":KA",
+            "tit": " ",
+            "familyname": "Kovács",
+            "firstname": "Attila",
+            "status": 6,
+            "beoszt": "tanár"
+        },
+        {
+            "ok": ":KJ",
+            "tit": " ",
+            "familyname": "Kovács",
+            "firstname": "János",
+            "status": 6,
+            "beoszt": "tanár"
+        },
+        {
+            "ok": ":KI",
+            "tit": " ",
+            "familyname": "Kovács",
+            "firstname": "Imre",
+            "status": 6,
+            "beoszt": "tanár"
+        },
+        {
+            "ok": ".KE",
+            "familyname": "Kosara",
+            "firstname": "Erika",
+            "status": 6,
+            "beoszt": "tanár"
+        },
+        {
+            "ok": ":GLK",
+            "tit": " ",
+            "familyname": "Geráné Lippay ",
+            "firstname": "Klára",
+            "status": 6,
+            "beoszt": "tanár"
+        },
+        {
+            "ok": ":LJne",
+            "tit": " ",
+            "familyname": "Lőrincz",
+            "firstname": "Jánosné",
+            "status": 262,
+            "beoszt": "gyakorlati oktatásvezető helyettes"
+        },
+        {
+            "ok": ":LO",
+            "tit": " ",
+            "familyname": "Luczay ",
+            "firstname": "Orsolya",
+            "status": 262,
+            "beoszt": "tanár"
+        },
+        {
+            "ok": ":MSZ",
+            "tit": " ",
+            "familyname": "Bönditzné Magyar",
+            "firstname": "Szilvia",
+            "status": 6,
+            "beoszt": "tanár, könyvtáros"
+        },
+        {
+            "ok": ":MZ",
+            "tit": " ",
+            "familyname": "Martincsek",
+            "firstname": "Zoltán",
+            "status": 6,
+            "beoszt": "tanár"
+        },
+        {
+            "ok": ".MV",
+            "familyname": "Marton",
+            "firstname": "Viktor",
+            "status": 6,
+            "beoszt": "tanár"
+        },
+        {
+            "ok": ":MM",
+            "tit": " ",
+            "familyname": "Máté",
+            "firstname": "Mária",
+            "status": 2334,
+            "beoszt": "tanár"
+        },
+        {
+            "ok": ":MJ",
+            "tit": " ",
+            "familyname": "Meszlényi",
+            "firstname": "János",
+            "status": 6,
+            "beoszt": "tanár"
+        },
+        {
+            "ok": ".Mi",
+            "familyname": "Mihók",
+            "firstname": "József",
+            "status": 262,
+            "beoszt": "tanár"
+        },
+        {
+            "ok": ":PME",
+            "tit": " ",
+            "familyname": "Perényiné Miskolczi",
+            "firstname": "Erzsébet",
+            "status": 262,
+            "beoszt": "tanár"
+        },
+        {
+            "ok": ".MJ",
+            "familyname": "Miskolczi",
+            "firstname": "János",
+            "status": 942,
+            "beoszt": "nevelési igazgatóhelyettes"
+        },
+        {
+            "ok": ":MI",
+            "tit": "dr.",
+            "familyname": "Molnár",
+            "firstname": "István",
+            "status": 6,
+            "beoszt": "tanár"
+        },
+        {
+            "ok": ":MTi",
+            "tit": " ",
+            "familyname": "Molnár",
+            "firstname": "Tibor",
+            "status": 510,
+            "beoszt": "műszaki igazgatóhelyettes"
+        },
+        {
+            "ok": ":Mu",
+            "tit": " ",
+            "familyname": "Müller",
+            "firstname": "Magdolna",
+            "status": 6,
+            "beoszt": "gyógypedagógus"
+        },
+        {
+            "ok": ":NM",
+            "tit": " ",
+            "familyname": "Németh",
+            "firstname": "Magdolna",
+            "status": 6,
+            "beoszt": "tanár"
+        },
+        {
+            "ok": ":NyM",
+            "tit": " ",
+            "familyname": "Nyári",
+            "firstname": "Mariann",
+            "status": 6,
+            "beoszt": "tanár"
+        },
+        {
+            "ok": ".OH",
+            "familyname": "Oroszi",
+            "firstname": "Hedvig",
+            "status": 1054,
+            "beoszt": "minőségirányítási vezető"
+        },
+        {
+            "ok": ".OM",
+            "familyname": "Ország",
+            "firstname": "Márton",
+            "status": 6,
+            "beoszt": "tanár"
+        },
+        {
+            "ok": ":PMi",
+            "tit": " ",
+            "familyname": "Pálinkás",
+            "firstname": "Miklós",
+            "status": 6,
+            "beoszt": "tanár"
+        },
+        {
+            "ok": ".PFne",
+            "familyname": "Pálvölgyiné Szécsi",
+            "firstname": "Valéria",
+            "status": 6,
+            "beoszt": "tanár"
+        },
+        {
+            "ok": ".PI",
+            "familyname": "Papp",
+            "firstname": "Imre",
+            "status": 6,
+            "beoszt": "tanár"
+        },
+        {
+            "ok": ".PSz",
+            "tit": " ",
+            "familyname": "Pappné Pap",
+            "firstname": "Szilvia",
+            "status": 6
+        },
+        {
+            "ok": ":PA",
+            "tit": " ",
+            "familyname": "Pásztor",
+            "firstname": "Attila",
+            "status": 14,
+            "beoszt": "tanár"
+        },
+        {
+            "ok": ":PZ",
+            "familyname": "Pataki",
+            "firstname": "Zoltán",
+            "status": 8190,
+            "beoszt": "fejlesztési igazgatóhelyettes"
+        },
+        {
+            "ok": ".VPZs",
+            "familyname": "Vámos-Poljak Zsolt",
+            "status": 6,
+            "beoszt": "tanár"
+        },
+        {
+            "ok": ":VPne",
+            "familyname": "Vámos-Poljak Zsoltné",
+            "status": 6,
+            "beoszt": "tanár"
+        },
+        {
+            "ok": ".PoZ",
+            "tit": " ",
+            "familyname": "Popovics",
+            "firstname": "Zoltán",
+            "status": 6,
+            "beoszt": "tanár"
+        },
+        {
+            "ok": ":Po",
+            "tit": " ",
+            "familyname": "Pördi",
+            "firstname": "József",
+            "status": 262,
+            "beoszt": "tanár"
+        },
+        {
+            "ok": ".PTV",
+            "familyname": "Tompa",
+            "firstname": "Valéria",
+            "status": 262,
+            "beoszt": "tanár"
+        },
+        {
+            "ok": ":PL",
+            "tit": " ",
+            "familyname": "Pozsik",
+            "firstname": "László",
+            "status": 6,
+            "beoszt": "tanár"
+        },
+        {
+            "ok": ".PG",
+            "familyname": "Prihoda",
+            "firstname": "Gábor",
+            "status": 6,
+            "beoszt": "tanár"
+        },
+        {
+            "ok": ".RZs",
+            "familyname": "Rabi",
+            "firstname": "Zsolt",
+            "status": 6,
+            "beoszt": "tanár"
+        },
+        {
+            "ok": ".RL",
+            "familyname": "Rácz",
+            "firstname": "László",
+            "status": 6,
+            "beoszt": "tanár"
+        },
+        {
+            "ok": ":Ra",
+            "tit": " ",
+            "familyname": "Radóczi",
+            "firstname": "Tibor",
+            "status": 262,
+            "beoszt": "tanár"
+        },
+        {
+            "ok": ":RJ",
+            "tit": " ",
+            "familyname": "Rózsa",
+            "firstname": "János",
+            "status": 262,
+            "beoszt": "tanár"
+        },
+        {
+            "ok": ".SSz",
+            "familyname": "Lugosiné Schuszter",
+            "firstname": "Szilvia",
+            "status": 14,
+            "beoszt": "tanár"
+        },
+        {
+            "ok": ":SeGa",
+            "tit": " ",
+            "familyname": "Serege",
+            "firstname": "Gábor",
+            "status": 262,
+            "beoszt": "tanár"
+        },
+        {
+            "ok": ":Si",
+            "tit": "dr.",
+            "familyname": "Simoncsics Jánosné",
+            "status": 262,
+            "beoszt": "tanár, gyermek- és ifjúságvédelmi felelős"
+        },
+        {
+            "ok": ":KoSK",
+            "tit": " ",
+            "familyname": "Komárominé Sipos",
+            "firstname": "Katalin",
+            "status": 6,
+            "beoszt": "tanár"
+        },
+        {
+            "ok": ".SJ",
+            "familyname": "Solticzky",
+            "firstname": "József",
+            "status": 6,
+            "beoszt": "tanár"
+        },
+        {
+            "ok": ".SM",
+            "familyname": "Százné Sőrés",
+            "firstname": "Márta",
+            "status": 270,
+            "beoszt": "tanár"
+        },
+        {
+            "ok": ":MSM",
+            "tit": " ",
+            "familyname": "Máhigné Stefanovits",
+            "firstname": "Márta",
+            "status": 6,
+            "beoszt": "tanár"
+        },
+        {
+            "ok": ":SzG",
+            "tit": " ",
+            "familyname": "Szabó",
+            "firstname": "Gábor",
+            "status": 510,
+            "beoszt": "általános igazgatóhelyettes"
+        },
+        {
+            "ok": ".RSZ",
+            "familyname": "Szabó",
+            "firstname": "Zsolt",
+            "status": 6,
+            "beoszt": "óraadó"
+        },
+        {
+            "ok": ".SzM",
+            "tit": " ",
+            "familyname": "Szebenyi",
+            "firstname": "Mihály",
+            "status": 6
+        },
+        {
+            "ok": ".SzJ",
+            "familyname": "Szikora",
+            "firstname": "János",
+            "status": 2078,
+            "beoszt": "tanár"
+        },
+        {
+            "ok": ".MSzA",
+            "familyname": "Miskolcziné Szilágyi",
+            "firstname": "Andrea",
+            "status": 6,
+            "beoszt": "tanár"
+        },
+        {
+            "ok": ".SzE",
+            "familyname": "Szilágyi",
+            "firstname": "Emese",
+            "status": 262,
+            "beoszt": "tanár"
+        },
+        {
+            "ok": ":SzH",
+            "tit": " ",
+            "familyname": "Szöllősi",
+            "firstname": "Huba",
+            "status": 6,
+            "beoszt": "tanár"
+        },
+        {
+            "ok": ":Sztne",
+            "tit": " ",
+            "familyname": "Sztankovics",
+            "firstname": "Józsefné",
+            "status": 262,
+            "beoszt": "tanár"
+        },
+        {
+            "ok": ":TZs",
+            "tit": " ",
+            "familyname": "Tatár",
+            "firstname": "Zsuzsanna",
+            "status": 262,
+            "beoszt": "tanár"
+        },
+        {
+            "ok": ".TJ",
+            "familyname": "Telek",
+            "firstname": "János",
+            "status": 6,
+            "beoszt": "tanár"
+        },
+        {
+            "ok": ".TP",
+            "familyname": "Tolnai",
+            "firstname": "Pál",
+            "status": 6,
+            "beoszt": "tanár"
+        },
+        {
+            "ok": ".NT",
+            "familyname": "Németh",
+            "firstname": "Tamás",
+            "status": 8190,
+            "beoszt": "rendszerinformatikus, óraadó"
+        },
+        {
+            "ok": ".TM",
+            "familyname": "Törköly",
+            "firstname": "Magdolna",
+            "status": 6,
+            "beoszt": "tanár"
+        },
+        {
+            "ok": ":TI",
+            "tit": " ",
+            "familyname": "Tóth",
+            "firstname": "István János",
+            "status": 62,
+            "beoszt": "rendszergazda"
+        },
+        {
+            "ok": ":MTE",
+            "tit": " ",
+            "familyname": "Mucsiné Turu",
+            "firstname": "Erzsébet",
+            "status": 6,
+            "beoszt": "tanár"
+        },
+        {
+            "ok": ".UA",
+            "tit": " ",
+            "familyname": "Udvardi",
+            "firstname": "Adrienn",
+            "status": 6,
+            "beoszt": "tanár"
+        },
+        {
+            "ok": ":UM",
+            "tit": " ",
+            "familyname": "Urbán ",
+            "firstname": "Marianna",
+            "status": 6,
+            "beoszt": "tanár"
+        },
+        {
+            "ok": ":VSz",
+            "tit": " ",
+            "familyname": "Ványi",
+            "firstname": "Szilvia",
+            "status": 6,
+            "beoszt": "tanár"
+        },
+        {
+            "ok": ".VKE",
+            "familyname": "Váradiné",
+            "firstname": "Kása Edit",
+            "status": 6,
+            "beoszt": "tanár"
+        },
+        {
+            "ok": ":VT",
+            "tit": " ",
+            "familyname": "Varga",
+            "firstname": "Tamás",
+            "status": 8190,
+            "beoszt": "tanár"
+        },
+        {
+            "ok": ":SVI",
+            "tit": " ",
+            "familyname": "Székelyné Veres",
+            "firstname": "Ilona",
+            "status": 6,
+            "beoszt": "tanár"
+        },
+        {
+            "ok": ".VL",
+            "familyname": "Vér",
+            "firstname": "László",
+            "status": 6,
+            "beoszt": "tanár"
+        },
+        {
+            "ok": ".VeI",
+            "tit": " ",
+            "familyname": "Vetró",
+            "firstname": "István",
+            "status": 6,
+            "beoszt": "szakoktató"
+        },
+        {
+            "ok": ".VI",
+            "familyname": "Vidákovics",
+            "firstname": "István",
+            "status": 6,
+            "beoszt": "tanár"
+        },
+        {
+            "ok": ".VS",
+            "familyname": "Vilonya",
+            "firstname": "Sándor",
+            "status": 302,
+            "beoszt": "szakmai igazgatóhelyettes"
+        },
+        {
+            "ok": ".SzVK",
+            "tit": "dr.",
+            "familyname": "Szabóné Virág",
+            "firstname": "Katalin",
+            "status": 262,
+            "beoszt": "koordinációs igazgatóhelyettes"
+        },
+        {
+            "ok": ":WA",
+            "tit": " ",
+            "familyname": "Weiner",
+            "firstname": "András",
+            "status": 14,
+            "beoszt": "tanár"
+        },
+        {
+            "ok": ".ZR",
+            "familyname": "Zánthó",
+            "firstname": "Róbert",
+            "status": 6,
+            "beoszt": "tanár"
+        },
+        {
+            "ok": ".ZI",
+            "familyname": "Zatykó",
+            "firstname": "István",
+            "status": 262,
+            "beoszt": "gyakorlatioktatás-vezető"
+        },
+        {
+            "ok": ".ZM",
+            "familyname": "Zimmer",
+            "firstname": "Márta",
+            "status": 6,
+            "beoszt": "tanár"
+        }
+    ]
 }
