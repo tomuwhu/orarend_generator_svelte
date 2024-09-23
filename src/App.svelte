@@ -16,7 +16,7 @@
       P: Array(14).fill(""),
     };
     var { orarend } = await fetch(
-      "http://tomuwhu.github.io/orarend_generator_svelte/orarend.json",
+      "https://tomuwhu.github.io/orarend_generator_svelte/orarend.json",
     ).then((v) => v.json());
     tt = orarend.filter((v: { tanar: string }) => v.tanar == selected_tacher);
     //console.log(tt);
