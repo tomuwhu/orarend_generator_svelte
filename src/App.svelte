@@ -82,11 +82,21 @@
         {/each}
       </table>
     {:else}
-      <div class="af"><a target="_blank" href="https://es6.eu/tanarok.json">Tanárok adatforrás</a></div>
-      <div class="af"><a target="_blank" href="https://es6.eu/orarend.json">Órarend adatforrás</a></div>
+      <br>
+      <div class="af">
+        Tanárok adatforrás:
+        <a target="_blank" href="tanarok.sql">SQL</a>
+        <a target="_blank" href="tanarok.json">JSON</a>
+      </div>
+      <div class="af">
+        Órarend adatforrás:
+        <a target="_blank" href="orarend.sql">SQL</a>
+        <a target="_blank" href="orarend.json">JSON</a>
+      </div>
     {/if}
   </div>
 </main>
+
 <style lang="scss">
   main {
     h1 {
@@ -109,7 +119,12 @@
     height: 50px;
     box-shadow: -1px -1px 5px inset white;
   }
-  div.targy, div.af a {
+  div.targy,
+  div.af {
+    font-size: 10px;
+    color: grey;
+  }
+  div.af a {
     text-decoration: none;
     font-size: 10px;
     color: rgb(170, 170, 101);
