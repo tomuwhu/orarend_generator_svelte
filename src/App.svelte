@@ -40,6 +40,7 @@
   }
   onMount(get_teacherlist);
 </script>
+
 <main>
   <h1>Órarend</h1>
   <select
@@ -80,6 +81,9 @@
           </tr>
         {/each}
       </table>
+    {:else}
+      <div class="af"><a target="_blank" href="https://es6.eu/tanarok.json">Tanárok adatforrás</a></div>
+      <div class="af"><a target="_blank" href="https://es6.eu/orarend.json">Órarend adatforrás</a></div>
     {/if}
   </div>
 </main>
@@ -105,9 +109,13 @@
     height: 50px;
     box-shadow: -1px -1px 5px inset white;
   }
-  div.targy {
+  div.targy, div.af a {
+    text-decoration: none;
     font-size: 10px;
-    color: yellow;
+    color: rgb(170, 170, 101);
     padding: 5px;
+  }
+  div.af a:hover {
+    color: yellow;
   }
 </style>
