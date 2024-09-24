@@ -17,7 +17,7 @@
       P: Array(14).fill(""),
     };
     var { orarend } = await fetch(
-      "https://tomuwhu.github.io/orarend_generator_svelte/orarend.json",
+      "orarend.json",
     ).then((v) => v.json());
     tt = orarend.filter((v: { tanar: string }) => v.tanar == selected_tacher);
     mino = 20;
@@ -38,7 +38,7 @@
   }
   async function get_teacherlist() {
     var { tanarok } = await fetch(
-      "https://tomuwhu.github.io/orarend_generator_svelte/tanarok.json",
+      "tanarok.json",
     ).then((v) => v.json());
     ol = tanarok;
     ol.sort((a, b) => (a.familyname < b.familyname ? -1 : 1));
